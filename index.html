@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kick Off — FIFA 2026</title>
+
+  <!-- Tailwind CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Google Fonts: Inter (UI) + Playfair Display (editorial voice) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,700;1,400;1,600&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="styles.css" />
+
+  <script>
+    // Tailwind config — extend with our custom tokens
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            surface:  '#1a1a24',
+            border:   '#2a2a38',
+            muted:    '#888899',
+            violet:   '#7c3aed',
+            'violet-light': '#a78bfa',
+            'violet-dim':   'rgba(124,58,237,0.08)',
+          },
+          fontFamily: {
+            sans:      ['Inter', 'sans-serif'],
+            editorial: ['"Playfair Display"', 'Georgia', 'serif'],
+          },
+          backgroundColor: {
+            page: '#0f0f13',
+          }
+        }
+      }
+    }
+  </script>
+</head>
+
+<body class="bg-[#0f0f13] text-gray-100 font-sans min-h-screen">
+
+  <!-- ─── Site Header ─────────────────────────────────────────── -->
+  <header class="sticky top-0 z-50 bg-[#0f0f13] border-b border-border">
+    <div class="max-w-2xl mx-auto px-4 py-3 flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <div>
+          <span class="text-lg font-bold tracking-tight">Kick Off</span>
+          <span class="text-xs text-muted font-medium uppercase tracking-widest ml-2">FIFA 2026</span>
+        </div>
+        <div id="prediction-tracker" class="tracker-chip" title="Our prediction record so far">
+          <span class="tracker-label">Our Calls</span>
+          <span class="tracker-sep">·</span>
+          <span id="tracker-correct" class="tracker-w">0</span><span class="tracker-unit tracker-w">W</span>
+          <span class="tracker-sep"> </span>
+          <span id="tracker-wrong" class="tracker-l">0</span><span class="tracker-unit tracker-l">L</span>
+        </div>
+      </div>
+      <!-- Tab Nav -->
+      <nav class="flex gap-1" role="tablist">
+        <button
+          id="tab-matches"
+          role="tab"
+          aria-selected="true"
+          aria-controls="panel-matches"
+          class="tab-btn active px-4 py-1.5 rounded-full text-sm font-semibold transition-all"
+          onclick="switchTab('matches')"
+        >Matches</button>
+        <button
+          id="tab-blogs"
+          role="tab"
+          aria-selected="false"
+          aria-controls="panel-blogs"
+          class="tab-btn px-4 py-1.5 rounded-full text-sm font-semibold transition-all"
+          onclick="switchTab('blogs')"
+        >Blogs</button>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ─── Main Content ─────────────────────────────────────────── -->
+  <main class="max-w-2xl mx-auto px-4 pb-16">
+
+    <!-- ── MATCHES PANEL ─────────────────────────────────────── -->
+    <section id="panel-matches" role="tabpanel" aria-labelledby="tab-matches">
+
+      <!-- Day Navigator -->
+      <div class="sticky top-[57px] z-40 bg-[#0f0f13] py-3 flex items-center justify-between border-b border-border mb-4">
+        <button
+          id="btn-prev-day"
+          aria-label="Previous day"
+          class="day-nav-btn w-9 h-9 flex items-center justify-center rounded-full text-muted hover:text-gray-100 hover:bg-surface transition-all disabled:opacity-20"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5">
+            <path fill-rule="evenodd" d="M11.78 5.22a.75.75 0 0 1 0 1.06L8.06 10l3.72 3.72a.75.75 0 1 1-1.06 1.06l-4.25-4.25a.75.75 0 0 1 0-1.06l4.25-4.25a.75.75 0 0 1 1.06 0Z" clip-rule="evenodd" />
+          </svg>
+        </button>
+
+        <div class="text-center">
+          <div id="day-label" class="text-sm font-semibold text-gray-100">June 11, 2026</div>
+          <div id="day-sublabel" class="text-xs text-muted mt-0.5">Matchday 1</div>
+        </div>
+
+        <button
+          id="btn-next-day"
+          aria-label="Next day"
+          class="day-nav-btn w-9 h-9 flex items-center justify-center rounded-full text-muted hover:text-gray-100 hover:bg-surface transition-all disabled:opacity-20"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5">
+            <path fill-rule="evenodd" d="M8.22 5.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.75.75 0 1 1-1.06-1.06L11.94 10 8.22 6.28a.75.75 0 0 1 0-1.06Z" clip-rule="evenodd" />
+          </svg>
+        </button>
+      </div>
+
+      <!-- Match Cards Container -->
+      <div id="match-cards-container" class="flex flex-col gap-4">
+
+        <!-- SKELETON — shown while JS loads data -->
+        <div class="match-card-skeleton card-base animate-pulse">
+          <div class="h-3 w-24 bg-border rounded mb-4"></div>
+          <div class="flex justify-between items-center mb-3">
+            <div class="flex items-center gap-2">
+              <div class="w-8 h-8 bg-border rounded-full"></div>
+              <div class="h-4 w-20 bg-border rounded"></div>
+            </div>
+            <div class="h-5 w-8 bg-border rounded"></div>
+            <div class="flex items-center gap-2">
+              <div class="h-4 w-20 bg-border rounded"></div>
+              <div class="w-8 h-8 bg-border rounded-full"></div>
+            </div>
+          </div>
+          <div class="h-3 w-full bg-border rounded mt-4"></div>
+        </div>
+
+        <div class="match-card-skeleton card-base animate-pulse">
+          <div class="h-3 w-24 bg-border rounded mb-4"></div>
+          <div class="flex justify-between items-center mb-3">
+            <div class="flex items-center gap-2">
+              <div class="w-8 h-8 bg-border rounded-full"></div>
+              <div class="h-4 w-20 bg-border rounded"></div>
+            </div>
+            <div class="h-5 w-8 bg-border rounded"></div>
+            <div class="flex items-center gap-2">
+              <div class="h-4 w-20 bg-border rounded"></div>
+              <div class="w-8 h-8 bg-border rounded-full"></div>
+            </div>
+          </div>
+          <div class="h-3 w-full bg-border rounded mt-4"></div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ── BLOGS PANEL ────────────────────────────────────────── -->
+    <section id="panel-blogs" role="tabpanel" aria-labelledby="tab-blogs" class="hidden">
+
+      <div class="pt-4 mb-6">
+        <h2 class="text-lg font-bold">Tactics Crash Course</h2>
+        <p class="text-sm text-muted mt-1">Everything you need to sound like you never left.</p>
+      </div>
+
+      <!-- Blog Cards Container -->
+      <div id="blog-cards-container" class="flex flex-col gap-3">
+        <!-- Populated by app.js -->
+      </div>
+
+      <!-- Blog Reader Modal (full-screen overlay) -->
+      <div id="blog-reader" class="hidden fixed inset-0 z-50 bg-[#0f0f13] overflow-y-auto">
+        <div class="max-w-2xl mx-auto px-4 py-6">
+          <button
+            id="blog-reader-close"
+            class="flex items-center gap-2 text-sm text-muted hover:text-gray-100 mb-8 transition-colors"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-4 h-4">
+              <path fill-rule="evenodd" d="M11.78 5.22a.75.75 0 0 1 0 1.06L8.06 10l3.72 3.72a.75.75 0 1 1-1.06 1.06l-4.25-4.25a.75.75 0 0 1 0-1.06l4.25-4.25a.75.75 0 0 1 1.06 0Z" clip-rule="evenodd" />
+            </svg>
+            Back to Blogs
+          </button>
+          <article id="blog-reader-content" class="prose-dark">
+            <!-- Injected by app.js -->
+          </article>
+        </div>
+      </div>
+
+    </section>
+
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

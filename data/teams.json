@@ -1,0 +1,1828 @@
+[
+
+  {
+    "teamCode": "CAN",
+    "teamName": "Canada",
+    "group": "B",
+    "worldRanking": 30,
+    "historicalParticipations": 2,
+    "vibeCheck": "Co-hosts running on pure adrenaline, physical intensity, and high-energy chaos.",
+    "tactics": {
+      "manager": "Jesse Marsch",
+      "formation": "Aggressive 4-2-2-2 / 4-4-2",
+      "style": "Nicknamed 'Maplepressing'—a relentless Red Bull-inspired high press that seeks to suffocate opponents in their own defensive third and launch instant, vertical counters."
+    },
+    "pillars": {
+      "strengths": [
+        "Terrifying athletic pace and transitions on the flanks",
+        "High collective work-rate that causes opposing defenders to panic"
+      ],
+      "weaknesses": [
+        "Massive space left behind the defensive line if the initial press is broken",
+        "Prone to high-risk defensive mistakes in their own half"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Alphonso Davies",
+        "role": "The Speed Demon. Shifting across the left flank to completely stretch out low blocks."
+      },
+      "theWildcard": {
+        "name": "Jonathan David",
+        "role": "The Ice Man. Leads the defensive press from the front and acts as a lethal finisher from forced turnovers."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "High risk, high reward. Their extreme style will lead to chaotic, high-scoring matches. Expect them to squeak through a tight Group B via pure home energy.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "MEX",
+    "teamName": "Mexico",
+    "group": "A",
+    "worldRanking": 15,
+    "historicalParticipations": 17,
+    "vibeCheck": "A demanding home crowd meeting a team built on intense, gritty internal competition.",
+    "tactics": {
+      "manager": "Javier Aguirre",
+      "formation": "Adaptive 4-3-3 / 4-2-3-1",
+      "style": "Pragmatic and unpredictable. Aguirre intentionally keeps his starting XI unsettled to foster fierce competition, altering structures completely to match the opponent."
+    },
+    "pillars": {
+      "strengths": [
+        "Highly versatile and comfortable switching tactical shapes mid-match",
+        "Massive psychological and emotional boost from the home crowd"
+      ],
+      "weaknesses": [
+        "Lack of a fully settled, cohesive baseline starting lineup",
+        "Vulnerable to organized counter-attacks when fullbacks push forward"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Santiago Giménez",
+        "role": "The Fox in the Box. Completely reliant on sharp wide service to crack stubborn, low-sitting defenses."
+      },
+      "theWildcard": {
+        "name": "César Montes",
+        "role": "The Defensive Anchor. Tasked with organizing the backline through constantly shifting tactical plans."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Aguirre knows how to survive tournament environments. Mexico won't always play beautiful football, but they will grind out the exact results needed to win Group A.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "USA",
+    "teamName": "United States",
+    "group": "D",
+    "worldRanking": 16,
+    "historicalParticipations": 11,
+    "vibeCheck": "A golden generation paired with an elite manager under sky-high domestic expectations.",
+    "tactics": {
+      "manager": "Mauricio Pochettino",
+      "formation": "Fluid 4-2-3-1 (Shifting to 3-2-5 in possession)",
+      "style": "Intense off-ball work and lightning-fast vertical attacking sequences. Pochettino is even utilizing real-time video analysis on laptops during mandatory hydration breaks to adjust shapes."
+    },
+    "pillars": {
+      "strengths": [
+        "Elite dynamic fullback overlaps creating massive overloads out wide",
+        "Incredible high-octane central midfield recovery and engine"
+      ],
+      "weaknesses": [
+        "Susceptible to counter-attacks in transition when fullbacks are pinned high up the pitch",
+        "High emotional pressure can lead to structural impatience if they don't score early"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Christian Pulisic",
+        "role": "The Creative Hub. Drifts inside from the wing to orchestrate central attacking space."
+      },
+      "theWildcard": {
+        "name": "Folarin Balogun",
+        "role": "The Spearhead. Relentlessly runs channels to stretch opposing center-backs vertically."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Pochettino's meticulous quarter-by-quarter coaching style will make this team highly adaptable. Comfortable lock for the knockouts.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "UZB",
+    "teamName": "Uzbekistan",
+    "group": "K",
+    "worldRanking": 50,
+    "historicalParticipations": 0,
+    "vibeCheck": "Historic tournament debutants playing with a fearless 'nothing to lose' mentality.",
+    "tactics": {
+      "manager": "Fabio Cannavaro",
+      "formation": "Rigid 3-4-2-1",
+      "style": "Classic Italian defensive steel. They prioritize an ultra-disciplined low block designed to entirely frustrate possession giants, remaining calm and collected under immense pressure."
+    },
+    "pillars": {
+      "strengths": [
+        "Exceptional defensive organization and spatial awareness in the box",
+        "Highly coachable young squad backed by massive domestic development investment"
+      ],
+      "weaknesses": [
+        "Complete lack of senior World Cup tournament experience",
+        "Struggles to generate sustained attacking possession if forced to chase a game"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Abdukodir Khusanov",
+        "role": "The Brick Wall. Manchester City's rising star center-back who anchors the entire defensive unit."
+      },
+      "theWildcard": {
+        "name": "Abbosbek Fayzullaev",
+        "role": "The Transition Spark. A highly creative midfielder tasked with turn-and-run breakouts on the counter."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "The ultimate dark horse defensive block. They won't blow teams away with goals, but they are going to cause massive headaches for Portugal and Colombia in Group K.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "ALG",
+    "teamName": "Algeria",
+    "group": "J",
+    "worldRanking": 28,
+    "historicalParticipations": 4,
+    "vibeCheck": "Seeking complete tournament redemption after a period of heavy underachievement.",
+    "tactics": {
+      "manager": "Vladimir Petković",
+      "formation": "Attacking 4-3-3",
+      "style": "High-pressure, multi-player attacking overloads. Petković commands an aggressive frontline press where midfielders and wingers swarm opponents, relying heavily on dynamic transitions down the flanks."
+    },
+    "pillars": {
+      "strengths": [
+        "Elite technical dribblers on the wings capable of breaking defensive locks",
+        "High-intensity forward press that forces opposing center-backs into panic"
+      ],
+      "weaknesses": [
+        "Prone to mental lapses under sustained, structural counter-pressing",
+        "Exposes massive vertical space behind the fullbacks during attacking overloads"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Rayan Aït-Nouri",
+        "role": "The Overlapping Engine. A highly dynamic fullback who acts as an auxiliary playmaker down the left flank."
+      },
+      "theWildcard": {
+        "name": "Anis Hadj Moussa",
+        "role": "The Trickster. Pure natural flair out wide, specialized in isolating defenders in 1v1 situations."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Petković has stabilized them with 15 wins in recent outings. They are deadlocked in a fiercely competitive Group J; expect them to push hard for a wild knockout spot.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "ARG",
+    "teamName": "Argentina",
+    "group": "J",
+    "worldRanking": 3,
+    "historicalParticipations": 18,
+    "vibeCheck": "The reigning world champions introducing a brand new, elite structural evolution.",
+    "tactics": {
+      "manager": "Lionel Scaloni",
+      "formation": "Chameleon 4-3-3 / 3-5-2",
+      "style": "Fluid positional rotation. Scaloni has developed a 'chameleon' system that shifts from 4 at the back to a 3-at-the-back overload mid-match without any personnel substitutions, completely unbalancing opposing blocks."
+    },
+    "pillars": {
+      "strengths": [
+        "Incredible tactical intelligence and seamless mid-game shape shifts",
+        "World-class central midfield cohesion and immediate ball recovery"
+      ],
+      "weaknesses": [
+        "High mechanical risks if the three-at-the-back shift is caught out on a rapid vertical break",
+        "Heavy psychological burden to maintain historical dominance on their farewell tour"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Lionel Messi",
+        "role": "The Mastermind. Walks to identify tactical weaknesses, then executes flawless vertical progressive passes."
+      },
+      "theWildcard": {
+        "name": "Rodrigo De Paul",
+        "role": "The Enforcer. The un-droppable dynamic engine who balances the entire system during fluid formation shifts."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Scaloni's new tactical flexibility makes them nearly impossible to prepare for. They are heavily favored to top Group J, even in a highly competitive pool.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "AUS",
+    "teamName": "Australia",
+    "group": "D",
+    "worldRanking": 27,
+    "historicalParticipations": 6,
+    "vibeCheck": "A squad undergoing a major generational transition, operating with structural grit.",
+    "tactics": {
+      "manager": "Tony Popovic",
+      "formation": "Disciplined 3-4-2-1 / 5-4-1",
+      "style": "Defensive steel mixed with physical directness. Popovic has integrated a staggering 17 World Cup debutants into a highly structured, hard-tackling unit designed to absorb pressure and hit teams through wingback transitions."
+    },
+    "pillars": {
+      "strengths": [
+        "Outstanding physical aerial dominance in both boxes on set pieces",
+        "Fearless young energy with zero historical tournament baggage"
+      ],
+      "weaknesses": [
+        "Lack of experienced, elite senior tournament leaders on the pitch",
+        "Can look structurally toothless if forced to break down an organized low block"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Jackson Irvine",
+        "role": "The Motor. Provides intense box-to-box engine power, breaking up plays and arriving late into the penalty area."
+      },
+      "theWildcard": {
+        "name": "Nestory Irankunda",
+        "role": "The Explosive Spark. Raw, unstoppable velocity off the bench capable of blowing past tired defensive lines."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Popovic will make them extremely difficult to break down. Group D with the USA is tough, but their physical resilience will see them contest strongly for a qualification spot.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "AUT",
+    "teamName": "Austria",
+    "group": "J",
+    "worldRanking": 24,
+    "historicalParticipations": 7,
+    "vibeCheck": "The tournament’s ultimate tactical dark horses, playing at maximum physical throttle.",
+    "tactics": {
+      "manager": "Ralf Rangnick",
+      "formation": "Aggressive 4-2-3-1 (Shifting to 3-1-6 in possession)",
+      "style": "Pure, unadulterated Gegenpressing. Known as 'The Professor', Rangnick demands total energetic suffocation. In possession, they overload central lanes with wingers drifting inside, allowing fullbacks to join a massive 6-man frontline attack."
+    },
+    "pillars": {
+      "strengths": [
+        "The most synchronized and terrifying high-pressing system in the tournament",
+        "Incredible tactical discipline across lines with total physical commitment"
+      ],
+      "weaknesses": [
+        "Extreme physical fatigue risks over a dense, expanded tournament schedule",
+        "Leaving immense space out wide if fullbacks are caught too high up the field"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Marcel Sabitzer",
+        "role": "The Orchestrator. Leads the midfield pressing triggers and dictates the tempo of vertical counters."
+      },
+      "theWildcard": {
+        "name": "Nicolas Seiwald",
+        "role": "The Quiet Engine. A defensive workhorse completely trusted to anchor the rest-defense framework."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Group J is an absolute group of death with Argentina and Algeria, but Rangnick’s lethal pressing machine is perfectly engineered to cause an elite upset. Book them for the knockouts.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "BEL",
+    "teamName": "Belgium",
+    "group": "G",
+    "worldRanking": 9,
+    "historicalParticipations": 13,
+    "vibeCheck": "A nation navigating life after their 'Golden Generation' with a fresh, raw injection of speed.",
+    "tactics": {
+      "manager": "Rudi Garcia",
+      "formation": "Fluid 4-2-3-1 / 4-3-3",
+      "style": "Intense verticality and lightning-fast transitions. Garcia favors a deeply dynamic approach that skips long possession chains to quickly unleash isolated wingers into 1v1 scenarios."
+    },
+    "pillars": {
+      "strengths": [
+        "Blistering, world-class acceleration and dribbling on the flanks",
+        "Elite midfield passing vision capable of cutting open lines instantly"
+      ],
+      "weaknesses": [
+        "Defensive line lacks elite recovery pace if caught in a high block",
+        "Heavy over-reliance on a few veteran leaders to keep composure under pressure"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Kevin De Bruyne",
+        "role": "The Metronome. The master creator pulling the strings from deep or advanced midfield pockets."
+      },
+      "theWildcard": {
+        "name": "Jérémy Doku",
+        "role": "The Pure Chaos Agent. Capable of completely destabilizing fullbacks through sheer velocity."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "They enter Group G as strong favorites to advance. Garcia's tactical pragmatism should easily safely steer them into the knockout tree.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "BIH",
+    "teamName": "Bosnia and Herzegovina",
+    "group": "B",
+    "worldRanking": 65,
+    "historicalParticipations": 1,
+    "vibeCheck": "An emotionally supercharged squad playing with supreme fighting spirit after a historic playoff run.",
+    "tactics": {
+      "manager": "Sergej Barbarez",
+      "formation": "Gritty 4-2-3-1 / 4-4-2",
+      "style": "Direct, aggressive, and highly physical. Formations become secondary once matches turn emotional; they focus on intense defensive shielding and hitting direct vertical balls to target-man strikers."
+    },
+    "pillars": {
+      "strengths": [
+        "Immense physical and aerial dominance across both penalty boxes",
+        "High emotional unity and structural grit under sustained defensive pressure"
+      ],
+      "weaknesses": [
+        "Prone to structural disorganization if drawn out into wide spaces",
+        "Struggles significantly to retain possession if forced to dictate tempo"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Edin Džeko",
+        "role": "The Eternal Shield. The legendary veteran focal point who holds up play and wins physical duels."
+      },
+      "theWildcard": {
+        "name": "Tarik Muharemovic",
+        "role": "The Modern Guard. A young, progressive center-back tasked with playing out cleanly from the back."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Barbarez has engineered an ultra-resilient culture. They will make Group B incredibly unpleasant for opponents and will fiercely hunt a round-of-32 ticket.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "BRA",
+    "teamName": "Brazil",
+    "group": "C",
+    "worldRanking": 6,
+    "historicalParticipations": 22,
+    "vibeCheck": "A star-studded squad blending classic flair with elite European tactical discipline.",
+    "tactics": {
+      "manager": "Carlo Ancelotti",
+      "formation": "Balanced 4-3-3",
+      "style": "Structured *Joga Bonito*. Ancelotti grants immense spatial freedom to his creative wingers out wide, but locks down the center with tight, protective 'rest defense' lines to instantly snuff out counter-attacks."
+    },
+    "pillars": {
+      "strengths": [
+        "Unrivaled 1v1 technical skill on both wings that forces double-teams",
+        "Exceptional defensive stability and midfield shielding blocks"
+      ],
+      "weaknesses": [
+        "Can become predictable if opponents successfully choke central creation lanes",
+        "High structural vulnerability if fullbacks overlap simultaneously"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Vinícius Júnior",
+        "role": "The Electric Spear. Exploits high defensive lines with devastating spatial runs and inside cuts."
+      },
+      "theWildcard": {
+        "name": "Neymar Jr.",
+        "role": "The Wildcard Return. Introduced into the squad to provide elite, unpredictable final-third locksmith passing."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Ancelotti's tournament expertise makes this Brazil side highly balanced and clinical. Lock them in to comfortably dominate Group C.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "CPV",
+    "teamName": "Cabo Verde",
+    "group": "H",
+    "worldRanking": 69,
+    "historicalParticipations": 0,
+    "vibeCheck": "Historic tournament debutants running on collective tactical pride and compact discipline.",
+    "tactics": {
+      "manager": "Bubista",
+      "formation": "Resilient 5-4-1 / 4-3-3",
+      "style": "Deep defensive block collapsing into quick transitional counters. Bubista favors total spatial restriction inside their own box, utilizing athletic wingbacks to spark wide fast-breaks."
+    },
+    "pillars": {
+      "strengths": [
+        "Highly organized lateral shifting that denies space to elite playmakers",
+        "Zero structural pressure allowing them to play completely free of fear"
+      ],
+      "weaknesses": [
+        "Low goal-conversion rate from open-play sequences",
+        "Prone to being pinned deep for extended periods without an outlet valve"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Jamiro Monteiro",
+        "role": "The Release Valve. Navigates tight central midfields to turn and drive transitional counter-attacks forward."
+      },
+      "theWildcard": {
+        "name": "Steven Moreira",
+        "role": "The Wide Guard. A highly dynamic fullback vital to establishing their defensive low-block integrity."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "The ultimate defensive spoiler. They aren't expected to top Group H, but their strict structural discipline will break more than a few predictions.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "COL",
+    "teamName": "Colombia",
+    "group": "K",
+    "worldRanking": 13,
+    "historicalParticipations": 6,
+    "vibeCheck": "A wildly entertaining, high-vibe side entering the tournament on the back of a historic unbeaten run.",
+    "tactics": {
+      "manager": "Néstor Lorenzo",
+      "formation": "Asymmetrical 4-2-3-1 / 4-3-3",
+      "style": "High-intensity vertical fluidity. Lorenzo allows his creative playmakers complete freedom to drift inside from wide zones, relying on hyper-athletic central midfielders to quickly recover the ball and launch instant direct attacks."
+    },
+    "pillars": {
+      "strengths": [
+        "Devastating wide acceleration and isolated 1v1 wing play",
+        "Exceptional attacking output and world-class accuracy from set-piece deliveries"
+      ],
+      "weaknesses": [
+        "Defensive vulnerabilities against highly organized, rapid central counter-presses",
+        "Prone to structural over-commitment when both fullbacks push high up simultaneously"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "James Rodríguez",
+        "role": "The Conductor. The veteran playmaker who slows down time to pick out lethal, progressive final-third passes."
+      },
+      "theWildcard": {
+        "name": "Luis Díaz",
+        "role": "The Electric Spark. A nightmare for fullbacks, specialized in cutting inside with explosive dribbling channels."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Lorenzo has turned them into absolute mental giants. Group K looks tricky with Portugal lurking, but their attacking depth will easily carry them deep into the knockout tree.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "COD",
+    "teamName": "Congo DR",
+    "group": "K",
+    "worldRanking": 46,
+    "historicalParticipations": 1,
+    "vibeCheck": "An incredibly proud, resilient squad riding a wave of emotional unity after a dramatic playoff triumph.",
+    "tactics": {
+      "manager": "Sébastien Desabre",
+      "formation": "Compact 4-2-3-1 / 4-4-2 Block",
+      "style": "Pure structural defiance. Desabre organizes an ultra-disciplined mid-block that chokes central creative avenues, forcing opponents wide before unleashing fast, direct transitions up to physical target men."
+    },
+    "pillars": {
+      "strengths": [
+        "Superb defensive physical resilience and aerial dominance in their own box",
+        "Brilliant structural cohesion and composure when starved of ball possession"
+      ],
+      "weaknesses": [
+        "Highly vulnerable if an opponent scores early and forces them out of their low block",
+        "Struggles significantly to creatively unlock deep-sitting defensive lines"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Chancel Mbemba",
+        "role": "The General. The bedrock center-back who organizes the entire defensive unit and dominates aerial duels."
+      },
+      "theWildcard": {
+        "name": "Yoane Wissa",
+        "role": "The Breakout Valve. A highly intelligent forward specialized in running channels and creating goals out of nothing."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "They are the ultimate structural spoiler in Group K. They will make life highly uncomfortable for Colombia and Uzbekistan, contesting fiercely for a best third-place spot.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "CIV",
+    "teamName": "Côte d'Ivoire",
+    "group": "E",
+    "worldRanking": 34,
+    "historicalParticipations": 3,
+    "vibeCheck": "An elite African powerhouse arriving with defensive steel and an absolute refusal to concede.",
+    "tactics": {
+      "manager": "Emerse Faé",
+      "formation": "Rigid 4-3-3 / Adaptive 3-5-2",
+      "style": "Safety first, lethal second. Faé prioritizes absolute defensive solidity over flashy possession. They routinely choked out opponents in qualifying by transitioning into a back three off-the-ball, leaving the rest to explosive wide isolation play."
+    },
+    "pillars": {
+      "strengths": [
+        "A truly terrifying defensive record backed by unmatched physical power across the pitch",
+        "Lethal direct wingers who thrive when isolated 1v1 against exposed fullbacks"
+      ],
+      "weaknesses": [
+        "Can look structurally static and overly passive during prolonged build-up sequences",
+        "Prone to isolating their lone central striker if midfielders fail to push up high enough"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Evan N'Dicka",
+        "role": "The Wall. The elite central defender responsible for anchoring their spotless clean-sheet record."
+      },
+      "theWildcard": {
+        "name": "Simon Adingra",
+        "role": "The Chaos Generator. A hyper-dynamic winger capable of completely unbalancing fullbacks with pure acceleration."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "You cannot advance if you cannot score against them. Faé’s defensive blueprint makes Côte d'Ivoire a heavy favorite to comfortably lockdown and win Group E.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "CRO",
+    "teamName": "Croatia",
+    "group": "L",
+    "worldRanking": 11,
+    "historicalParticipations": 6,
+    "vibeCheck": "The legendary golden generation orchestrating one final, beautiful, high-IQ tournament run.",
+    "tactics": {
+      "manager": "Zlatko Dalić",
+      "formation": "Control-Heavy 4-3-3",
+      "style": "Slow-burn structural suffocation. Dalić refuses to engage in chaotic, high-pace transition matches. Instead, Croatia uses elite, short technical passing combinations to entirely manipulate the tempo and fatigue opposing presses."
+    },
+    "pillars": {
+      "strengths": [
+        "Unrivaled central midfield intelligence, ball retention, and tactical composure",
+        "Incredible mental endurance and technical experience in high-stakes tournament environments"
+      ],
+      "weaknesses": [
+        "Susceptible to explosive, hyper-vertical pace if caught high up the field",
+        "Lack of an elite, clinical, out-and-out explosive target striker to finish deep sequences"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Luka Modrić",
+        "role": "The Maestro. The ageless wizard who operates from half-spaces to entirely dictate the tournament's rhythm."
+      },
+      "theWildcard": {
+        "name": "Joško Gvardiol",
+        "role": "The Modern Shield. An elite, robust defender who steps out from the backline to act as an auxiliary winger."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Never count them out. While their lack of raw velocity might catch up to them in later rounds, Dalić’s midfield machine will elegantly pass their way right out of Group L.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "CUW",
+    "teamName": "Curaçao",
+    "group": "E",
+    "worldRanking": 82,
+    "historicalParticipations": 0,
+    "vibeCheck": "The smallest nation in the tournament, making a fairytale debut with an elite Dutch-heavy backbone.",
+    "tactics": {
+      "manager": "Dick Advocaat",
+      "formation": "Expressive 4-3-3",
+      "style": "Classic, fluid Dutch wing play. Advocaat—the oldest manager in World Cup history at 78—has built a highly cohesive team that utilizes technical European-developed midfield networks to release dynamic wingers in space."
+    },
+    "pillars": {
+      "strengths": [
+        "Incredible emotional freedom with absolutely zero structural pressure",
+        "Excellent spatial connectivity and technical chemistry in wide attacking areas"
+      ],
+      "weaknesses": [
+        "Total lack of elite-level international tournament experience",
+        "Vulnerable to getting physically dominated by high-pressing athletic teams"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Tahith Chong",
+        "role": "The Modern Winger. The primary ball carrier tasked with driving transitions and cutting infield to create chaos."
+      },
+      "theWildcard": {
+        "name": "Juninho Bacuna",
+        "role": "The Locksmith. A highly creative midfielder who arrives late into the box to finish deep possession sequences."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "They will be the absolute darlings of Group E. Advocaat's immense veteran savvy means they won't roll over easily, but surviving a pool with Ivory Coast and Germany is a mountainous ask.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "CZE",
+    "teamName": "Czechia",
+    "group": "A",
+    "worldRanking": 41,
+    "historicalParticipations": 9,
+    "vibeCheck": "Playoff survivors who play with a rigid, gritty, and deeply practical collectivism.",
+    "tactics": {
+      "manager": "Miroslav Koubek",
+      "formation": "Sturdy 3-4-1-2 / 5-3-2",
+      "style": "Direct physical verticality and low-risk positional containment. Formed late in the cycle, Koubek's system relies on deep defensive banks of three, bypassing the midfield entirely via direct balls to physical center-forwards."
+    },
+    "pillars": {
+      "strengths": [
+        "Tremendous physical and aerial size across the pitch",
+        "Extremely disciplined and deep defensive low-block configuration"
+      ],
+      "weaknesses": [
+        "Lacks dynamic pace and individual flair in isolation lanes",
+        "Can easily become creatively isolated if target forwards are starved of service"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Tomáš Souček",
+        "role": "The Shield & Weapon. Breaks up opposing central patterns and acts as an elite target on aerial set-pieces."
+      },
+      "theWildcard": {
+        "name": "Patrik Schick",
+        "role": "The Finisher. A highly clinical box operator who converts half-chances out of absolutely nothing."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Group A is highly unpredictable behind Mexico. Koubek's low-risk approach is custom-built to grind out unglamorous results, making them a very safe bet to advance.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "ECU",
+    "teamName": "Ecuador",
+    "group": "E",
+    "worldRanking": 23,
+    "historicalParticipations": 4,
+    "vibeCheck": "A hyper-athletic, high-altitude engine playing with intense, suffocating physical speed.",
+    "tactics": {
+      "manager": "Sebastián Beccacece",
+      "formation": "High-Octane 4-3-3 (Shifting to 3-4-3 in possession)",
+      "style": "Ultra-aggressive positional compression. Beccacece commands a terrifyingly high defensive line, squeezing the pitch into a tiny corridor to trap opponents via an immediate, breathless counter-press."
+    },
+    "pillars": {
+      "strengths": [
+        "Unmatched raw physical engine and recovery pace across all thirds",
+        "Devastating counter-pressing triggers that yield immediate central turnovers"
+      ],
+      "weaknesses": [
+        "High mechanical danger if an opponent breaks their initial high defensive line",
+        "Prone to finishing inefficiency during highly chaotic transitions"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Moisés Caicedo",
+        "role": "The Destroyer. A world-class vacuum cleaner who destroys opposing transitions and launches immediate vertical play."
+      },
+      "theWildcard": {
+        "name": "Piero Hincapié",
+        "role": "The Wide Anchor. An exceptionally fast, progressive defender vital to sustaining their aggressive high line."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Beccacece's risky, high-line model will completely shock slower European units. Expect a blockbuster showdown with Côte d'Ivoire for structural supremacy in Group E.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "EGY",
+    "teamName": "Egypt",
+    "group": "G",
+    "worldRanking": 29,
+    "historicalParticipations": 3,
+    "vibeCheck": "A highly proud footballing nation desperate to finally rewrite their historic tournament narrative.",
+    "tactics": {
+      "manager": "Hossam Hassan",
+      "formation": "Direct 4-2-3-1",
+      "style": "Asymmetrical transition football. Legendary striker Hassan organizes an incredibly rigid, compact defensive shape designed specifically to isolate their elite, world-class forward options in open space."
+    },
+    "pillars": {
+      "strengths": [
+        "Possessing arguably the most clinical and dangerous transitional attacker in world football",
+        "Excellent spatial understanding and patient low-block containment"
+      ],
+      "weaknesses": [
+        "Heavy tactical over-reliance on a singular attacking creative hub",
+        "Can look slow and rigid when forced to dictate sustained possession sequences"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Mohamed Salah",
+        "role": "The Icon. Drifts inside from wide-right to orchestrate, finish, and draw maximum defensive gravity."
+      },
+      "theWildcard": {
+        "name": "Omar Marmoush",
+        "role": "The Livewire. A highly explosive, in-form attacker whose pace prevents teams from entirely doubling up on Salah."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Hassan has infused this squad with intense, elite pride. Backed by a firing frontline, they look highly primed to easily lock down the second spot in Group G behind Belgium.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "ENG",
+    "teamName": "England",
+    "group": "L",
+    "worldRanking": 4,
+    "historicalParticipations": 16,
+    "vibeCheck": "An elite, star-studded squad operating under a ruthless elite tactician who respects no reputations.",
+    "tactics": {
+      "manager": "Thomas Tuchel",
+      "formation": "Meticulous 4-2-3-1 / 3-4-2-1",
+      "style": "Hyper-flexible game plan management. Tuchel has stripped away sentimentality, demanding intense off-ball running. He has even forced superstars like Jude Bellingham to fight for starting spots in favor of in-form tactical workhorses who suit his aggressive transition model."
+    },
+    "pillars": {
+      "strengths": [
+        "Unrivaled squad depth with world-class game-changers off the bench",
+        "Exceptional defensive security and rest-defense structure under Tuchel"
+      ],
+      "weaknesses": [
+        "High systemic friction if heavy squad rotation disrupts final-third chemistry",
+        "Immense historical pressure that creates structural panic if they concede first"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Harry Kane",
+        "role": "The Deep Target. Drops deep into midfield spaces to unleash lightning-fast wingers via perfect progressive pings."
+      },
+      "theWildcard": {
+        "name": "Morgan Rogers",
+        "role": "The Tactical Disruptor. Tuchel's breakout favorite, used to aggressively carry the ball directly through the central lines."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Tuchel's knockout tournament pedigree is legendary. Group L starts with a massive, must-watch blockbuster match against Croatia, but England will comfortably navigate their way out.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "FRA",
+    "teamName": "France",
+    "group": "I",
+    "worldRanking": 1,
+    "historicalParticipations": 16,
+    "vibeCheck": "The world's number one ranked powerhouse on an emotional, high-stakes farewell tour.",
+    "tactics": {
+      "manager": "Didier Deschamps",
+      "formation": "Pragmatic 4-3-3",
+      "style": "Elite transition containment. With Zinedine Zidane already verbally locked in to take over post-tournament, Deschamps is looking to go out on an ultimate high. France sits in a deeply secure mid-block, completely strangling the game before executing explosive counter-attacks."
+    },
+    "pillars": {
+      "strengths": [
+        "The most terrifyingly explosive and clinical transitional frontline in international football",
+        "Physically imposing and fast center-backs capable of shutting down isolated counter-attacks"
+      ],
+      "weaknesses": [
+        "Can look passive and creatively stagnant against extreme, low-sitting defensive buses",
+        "Prone to structural complacency if they comfortably dominate early possession"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Antoine Griezmann",
+        "role": "The Heartbeat. Seamlessly glues the entire midfield to the frontline, dictating the tempo of vertical transitions."
+      },
+      "theWildcard": {
+        "name": "Kylian Mbappé",
+        "role": "The Ultimate Weapon. Given total tactical freedom out wide to isolate fullbacks and destroy high lines."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "They are the tournament gold standard. Deschamps' defensive safety net combined with Mbappé's individual gravity makes France an absolute lock to easily win Group I.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "GER",
+    "teamName": "Germany",
+    "group": "E",
+    "worldRanking": 10,
+    "historicalParticipations": 20,
+    "vibeCheck": "A hyper-modern, positionless machine playing high-IQ football at maximum speed.",
+    "tactics": {
+      "manager": "Julian Nagelsmann",
+      "formation": "Fluid 4-2-2-2 (Shifting to an attacking 3-2-4-1)",
+      "style": "Hyper-fluid 'Space-Investigation'. Nagelsmann entirely rejects static positioning. Fullbacks invert deeply into midfield, while his twin creative geniuses drift freely across the half-spaces, generating quick numerical overloads."
+    },
+    "pillars": {
+      "strengths": [
+        "Hypnotic, world-class technical interchange and box-midfield ball retention",
+        "Savage, highly coordinated counter-pressing triggers that win the ball back in seconds"
+      ],
+      "weaknesses": [
+        "High mechanical risk of being exploited down the wide flanks on rapid breakouts",
+        "Extreme physical strain on the double-pivot midfielders over a dense tournament bracket"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Florian Wirtz",
+        "role": "The Locksmith. Operates in tight half-spaces, carving open low-blocks with delicate, progressive passes."
+      },
+      "theWildcard": {
+        "name": "Jamal Musiala",
+        "role": "The Maze Runner. Possesses unmatched technical dribbling inside crowded penalty areas to create goals out of nothing."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Nagelsmann has created a tactical masterpiece. Group E with Ecuador and Ivory Coast is highly competitive, but Germany’s hypnotic midfield control will comfortably carry them through.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "GHA",
+    "teamName": "Ghana",
+    "group": "L",
+    "worldRanking": 74,
+    "historicalParticipations": 4,
+    "vibeCheck": "An athletic, volatile giant rapidly adapting to a last-minute defensive overhaul.",
+    "tactics": {
+      "manager": "Carlos Queiroz",
+      "formation": "Ultra-Disciplined 5-4-1 / 4-5-1",
+      "style": "Total structural pragmatism. Appointed late in the cycle following a friendly defeat to Germany, the veteran Portuguese tactician has completely stripped back Ghana's expansive style to implement his trademark, rock-solid defensive shield."
+    },
+    "pillars": {
+      "strengths": [
+        "Elite individual athletic velocity on the counter-attack flanks",
+        "A highly combative central midfield block designed to disrupt creative playmakers"
+      ],
+      "weaknesses": [
+        "Extremely short tactical preparation time under a completely new coaching staff",
+        "Can become entirely starved of final-third service if the low block is pinned deep"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Mohammed Kudus",
+        "role": "The Escape Valve. A powerful, technical ball-carrier tasked with turning past presses to carry them out of defense."
+      },
+      "theWildcard": {
+        "name": "Iñaki Williams",
+        "role": "The Lone Spear. Relentlessly sprints into deep vertical channels to keep opposing lines honest on long clearances."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Queiroz knows exactly how to make teams punch above their weight in tournaments. They face an uphill battle in a brutal Group L, but their newly defensive identity could break Croatia or England brackets.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "HAI",
+    "teamName": "Haiti",
+    "group": "C",
+    "worldRanking": 83,
+    "historicalParticipations": 1,
+    "vibeCheck": "An extraordinary human triumph forged through adversity, qualifying despite playing every single match in exile.",
+    "tactics": {
+      "manager": "Sébastien Migné",
+      "formation": "Vertical 4-4-2 / 4-2-3-1",
+      "style": "Emotionally supercharged transition football. Because of civil unrest at home, Migné has never actually been able to visit Haiti. He coaches via international camps, building a hyper-disciplined defensive structure that bursts into lightning-fast vertical counter-attacks."
+    },
+    "pillars": {
+      "strengths": [
+        "Incredible collective emotional resilience and playing for a higher purpose",
+        "Lethal direct athletic pace through the central attacking channels"
+      ],
+      "weaknesses": [
+        "Lack of sustained tactical preparation time in a stable home environment",
+        "Can struggle heavily if forced to break down a passive, low-sitting defense"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Jean-Ricner Bellegarde",
+        "role": "The Engine. The Premier League midfielder who single-handedly carries the ball out of pressure zones."
+      },
+      "theWildcard": {
+        "name": "Wilson Isidor",
+        "role": "The Spear. A highly explosive forward tasked with converting half-chances on the rapid break."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "They are the ultimate feel-good story of the tournament. Group C features Brazil, but if Haiti can spring a transition trap against Scotland, they could steal a historic knockout spot.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "IRN",
+    "teamName": "IR Iran",
+    "group": "G",
+    "worldRanking": 21,
+    "historicalParticipations": 6,
+    "vibeCheck": "An experienced, clinical squad blocking out immense geopolitical noise to finally make national history.",
+    "tactics": {
+      "manager": "Amir Ghalenoei",
+      "formation": "Pragmatic 4-2-3-1 / 4-3-3",
+      "style": "Physical, low-risk containment. Ghalenoei ignores the external political circus, setting up a deeply experienced, battle-hardened mid-block that chokes central passing lanes and feeds clinical, elite target forwards."
+    },
+    "pillars": {
+      "strengths": [
+        "Staggering international tournament experience across the starting XI",
+        "Highly clinical finishing inside the penalty box from minimal chances"
+      ],
+      "weaknesses": [
+        "The starting defensive core lacks high-end recovery speed against elite wingers",
+        "Immense external psychological and political pressure could cause structural fatigue"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Mehdi Taremi",
+        "role": "The Focal Point. An elite, high-IQ forward who uses his body masterfully to shield the ball and win fouls."
+      },
+      "theWildcard": {
+        "name": "Alireza Jahanbakhsh",
+        "role": "The Veteran Trigger. Directs the wide pressing blocks and provides lethal service from set-pieces."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Iran has never advanced past the group stage. Despite the massive distractions, Ghalenoei's pragmatic setup is built to grind out results. They will fiercely challenge Egypt for a Round of 32 ticket in Group G.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "IRQ",
+    "teamName": "Iraq",
+    "group": "I",
+    "worldRanking": 57,
+    "historicalParticipations": 1,
+    "vibeCheck": "Reborn as structural fighters under a legendary tournament survival specialist.",
+    "tactics": {
+      "manager": "Graham Arnold",
+      "formation": "Hard-Tackling 4-1-4-1 / 4-4-2",
+      "style": "Classic 'Arnie-ball'. After taking over late in the cycle, the former Australia boss completely overhauled their identity, implementing intense defensive physical conditioning, aggressive duels, and a heavy reliance on set-piece overloads."
+    },
+    "pillars": {
+      "strengths": [
+        "Exceptional physical stamina and defensive positioning across the backline",
+        "Highly dangerous and synchronized routines on attacking set-pieces"
+      ],
+      "weaknesses": [
+        "Severe lack of technical, creative spark in the central midfield third",
+        "Extremely vulnerable if an opponent's movement forces their defensive line to step out"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Aymen Hussein",
+        "role": "The Brawler. A towering, physical striker who fights center-backs and thrives on aerial crosses."
+      },
+      "theWildcard": {
+        "name": "Ali Jasim",
+        "role": "The Spark. A young, highly technical winger trusted to create solo magic when the system gets stuck."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Arnold was hired specifically to make them impossible to beat. They won't play pretty football, but their brutal physical setup will heavily disrupt things in Group I.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "JPN",
+    "teamName": "Japan",
+    "group": "F",
+    "worldRanking": 18,
+    "historicalParticipations": 7,
+    "vibeCheck": "A hyper-technical midfield juggernaut openly declaring their intention to win the entire tournament.",
+    "tactics": {
+      "manager": "Hajime Moriyasu",
+      "formation": "Dynamic 4-2-3-1 / 3-4-2-1",
+      "style": "High-speed positional geometry. Moriyasu boasts a midfield so deeply stacked with European elite talent that he can leave stars on the bench. They play hypnotic, short passing triangles designed to completely pull opposing blocks out of position."
+    },
+    "pillars": {
+      "strengths": [
+        "World-class central midfield ball retention, agility, and technical depth",
+        "Devastating tactical intelligence and seamless mid-game formation shifts"
+      ],
+      "weaknesses": [
+        "Can occasionally over-complicate possession inside the box instead of shooting",
+        "Vulnerable to ultra-aggressive, physical teams that disrupt their passing rhythm"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Wataru Endo",
+        "role": "The Vacuum. The defensive midfield anchor who destroys transitions and recycles possession perfectly."
+      },
+      "theWildcard": {
+        "name": "Kaoru Mitoma",
+        "role": "The Locksmith. Possesses a literal university thesis-level understanding of 1v1 dribbling to freeze fullbacks."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Moriyasu has built a legitimate global powerhouse. Their group opener against the Netherlands is an absolute blockbuster, but Japan is heavily favored to breeze deep into the knockouts.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "JOR",
+    "teamName": "Jordan",
+    "group": "J",
+    "worldRanking": 63,
+    "historicalParticipations": 0,
+    "vibeCheck": "The ultimate Asian fairytale debutants playing with zero fear and absolute national pride.",
+    "tactics": {
+      "manager": "Jamal Sellami",
+      "formation": "Disciplined 3-4-2-1 / 5-4-1",
+      "style": "Highly organized structural containment. Sellami—recently granted Jordanian citizenship by the King for this historic qualification achievement—favors a deeply secure, compact defensive shell designed to choke out creative spaces before launching explosive, wide counter-attacks."
+    },
+    "pillars": {
+      "strengths": [
+        "Incredible emotional cohesion and fearless 'nothing to lose' fighting mentality",
+        "Lethal individual speed and direct dribbling threats on the break"
+      ],
+      "weaknesses": [
+        "Total absence of senior World Cup tournament pressure experience",
+        "Prone to defensive fatigue if pinned inside their own box for prolonged spells"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Mousa Al-Tamari",
+        "role": "The Jordanian Messi. A highly explosive Ligue 1 winger who drives the entire nation's transition threat."
+      },
+      "theWildcard": {
+        "name": "Yazan Al-Naimat",
+        "role": "The Chaos Striker. A brilliant, intuitive box operator specialized in turning half-chances into goals."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "They are trapped in an absolute lion's den of a Group J alongside Argentina and Austria. Escalating past the group stage is a massive climb, but Al-Tamari’s transition pace will ruin at least one major bracket.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "KOR",
+    "teamName": "Korea Republic",
+    "group": "A",
+    "worldRanking": 25,
+    "historicalParticipations": 10,
+    "vibeCheck": "A technically gifted generation facing brutal environmental conditions under an iconic home manager.",
+    "tactics": {
+      "manager": "Hong Myung-bo",
+      "formation": "High-Tempo 4-2-3-1",
+      "style": "Sustained high-intensity physical output. Hong has constructed a highly synchronized, hard-running structure. Because they play all three group matches in Mexico, his game plans revolve entirely around careful stamina conservation and lethal, vertical transition triggers."
+    },
+    "pillars": {
+      "strengths": [
+        "Elite technical engines in midfield with exceptional off-ball recovery stamina",
+        "Devastating multi-lane forward runs that completely stretch deep-sitting blocks"
+      ],
+      "weaknesses": [
+        "High mechanical vulnerability to high-altitude fatigue during the second half of games",
+        "Occasional central defensive lapses when defending deep crosses under pressure"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Son Heung-min",
+        "role": "The Icon. The talismanic forward whose world-class long-range shooting gravity draws defenders away from younger prospects."
+      },
+      "theWildcard": {
+        "name": "Bae Jun-ho",
+        "role": "The Creative Spark. A dynamic young playmaker trusted to gracefully navigate tight spaces between lines."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Playing in Guadalajara's thin air and Monterrey's humid heat will test their physical limits. However, Hong’s meticulous tactical preparation makes them a solid bet to escape Group A alongside Mexico.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "MAR",
+    "teamName": "Morocco",
+    "group": "C",
+    "worldRanking": 8,
+    "historicalParticipations": 6,
+    "vibeCheck": "A world-class powerhouse navigating a shock, last-minute tactical evolution.",
+    "tactics": {
+      "manager": "Mohamed Ouahbi",
+      "formation": "Proactive 4-3-3",
+      "style": "High-pressing possession initiative. In a stunning pre-tournament twist, Ouahbi took over the senior reins just three months ago after leading Morocco's youth to a world title. He has aggressively shifted their identity away from Qatar 2022's low-block counters toward a dominant, high-pressing model."
+    },
+    "pillars": {
+      "strengths": [
+        "World-class defensive fullbacks combined with an incredibly technical central midfield structure",
+        "Fearless, highly integrated youth prodigies who understand Ouahbi's tactical system perfectly"
+      ],
+      "weaknesses": [
+        "High systemic risk if the newly implemented high-pressing line is bypassed early",
+        "Massive psychological burden to match or exceed their historic 2022 semi-final legacy"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Achraf Hakimi",
+        "role": "The Flank Locomotive. An elite, hyper-dynamic wingback who orchestrates possession overloads down the right side."
+      },
+      "theWildcard": {
+        "name": "Yassir Zabiri",
+        "role": "The Prodigy. Snatched from the youth ranks by Ouahbi to inject unpredictable, penalty-box finishing flair."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Changing a manager three months before a World Cup is chaotic, but Ouahbi’s youth-fueled high press adds an element of surprise. They should comfortably secure a knockout spot out of Group C.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "NED",
+    "teamName": "Netherlands",
+    "group": "F",
+    "worldRanking": 7,
+    "historicalParticipations": 10,
+    "vibeCheck": "A mathematically precise European giant bringing an elite, star-studded coaching brain trust.",
+    "tactics": {
+      "manager": "Ronald Koeman",
+      "formation": "Fluid 4-3-3 / 3-4-2-1",
+      "style": "Total Control through positional geometry. Assisted by a newly added elite staff including Ruud van Nistelrooy, Koeman plays a patient, short-passing possession framework that uses inverted wingbacks to pin opponents deep before sliding clinical balls into half-spaces."
+    },
+    "pillars": {
+      "strengths": [
+        "Arguably the most physically imposing and ball-progressive center-back line in international football",
+        "Incredible attacking flexibility and variation in wide final-third channels"
+      ],
+      "weaknesses": [
+        "Prone to looking creatively stagnant if central playmakers are aggressively marked out",
+        "Exposes vertical counter-attack channels if central midfielders fail to maintain proper rest-defense depth"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Virgil van Dijk",
+        "role": "The Anchor. The veteran general who effortlessly reads defensive transitions and commands the aerial space."
+      },
+      "theWildcard": {
+        "name": "Xavi Simons",
+        "role": "The Electric Locksmith. A highly creative, explosive playmaker tasked with unbalancing lines from advanced pockets."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Group F features a massive, tactical blockbuster opening match against Japan. Koeman's incredibly balanced squad depth and elite tactical backing makes the Oranje a lock for a deep tournament run.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "NZL",
+    "teamName": "New Zealand",
+    "group": "G",
+    "worldRanking": 85,
+    "historicalParticipations": 2,
+    "vibeCheck": "The undisputed kings of Oceania looking to repeat their legendary, undefeated 2010 run.",
+    "tactics": {
+      "manager": "Darren Bazeley",
+      "formation": "Direct 4-3-3 / 4-2-3-1",
+      "style": "Structured physical directness. Bazeley sets up a compact, organized mid-block that skips intricate central building, choosing instead to target physical frontline focal points and overlap fullbacks for high-volume crossing sequences."
+    },
+    "pillars": {
+      "strengths": [
+        "Exceptional physical and aerial dominance on offensive set-pieces",
+        "Deep structural unity and high-intensity defensive coverage tracking wide zones"
+      ],
+      "weaknesses": [
+        "Can look entirely devoid of creative central ideas if wide crossing avenues are blocked",
+        "Vulnerable to high-end technical fluid passing networks that drag their center-backs out of position"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Chris Wood",
+        "role": "The Battering Ram. The veteran captain and ultimate target man who shields defenders and finishes half-chances in the box."
+      },
+      "theWildcard": {
+        "name": "Marko Stamenić",
+        "role": "The Engine Room. A highly technical central midfielder trusted to recycle possession under pressure and unlock transitions."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "They find themselves in a highly volatile Group G with Belgium and Egypt. Escaping the group is a heavy mountain to climb, but their physical set-piece routine is highly engineered to steal an unexpected draw.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "NOR",
+    "teamName": "Norway",
+    "group": "I",
+    "worldRanking": 31,
+    "historicalParticipations": 3,
+    "vibeCheck": "A star-heavy Nordic side breaking a painful 28-year tournament curse with absolute offensive fury.",
+    "tactics": {
+      "manager": "Ståle Solbakken",
+      "formation": "Progressive 4-3-3",
+      "style": "Northern European verticality. Solbakken completely rejects overly slow, romantic possession. Norway uses high-tempo, interior progressive passing through the half-spaces to rapidly release the world's most devastating forward line into open spaces."
+    },
+    "pillars": {
+      "strengths": [
+        "Possessing the absolute gold-standard, most unstoppable clinical finisher in world football",
+        "Elite creative vision and line-breaking passing combinations from advanced midfield pockets"
+      ],
+      "weaknesses": [
+        "Defensive line can look highly unstable and unorganized under direct counter-pressing",
+        "High structural dependency on their top two global superstars staying completely healthy"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Martin Ødegaard",
+        "role": "The Architect. The high-IQ captain who dictates the entire rhythm, manipulating lines to feed killer through-balls."
+      },
+      "theWildcard": {
+        "name": "Erling Haaland",
+        "role": "The Cybernetic Finisher. A terrifying combination of raw physical power, speed, and lethal box positioning."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "The long wait is over, and they aren't here to play nice. Group I features France, but the sheer gravity of Ødegaard and Haaland will comfortably sweep Norway straight into the knockout tree.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "PAN",
+    "teamName": "Panama",
+    "group": "L",
+    "worldRanking": 33,
+    "historicalParticipations": 1,
+    "vibeCheck": "The top independent Central American qualifiers bringing highly mature technical flow.",
+    "tactics": {
+      "manager": "Thomas Christiansen",
+      "formation": "Patient 5-4-1 / 3-4-3",
+      "style": "Spanish-influenced possession retention. Christiansen has completely altered their historical identity, implementing patient, short-passing build-ups from the back designed to bait presses before utilizing dynamic wingbacks to overload the flanks."
+    },
+    "pillars": {
+      "strengths": [
+        "Superb tactical chemistry and positional awareness honed over a multi-year project",
+        "Excellent technical comfort in tight midfield lanes under high pressure"
+      ],
+      "weaknesses": [
+        "Can occasionally over-pass horizontally, lacking a clinical, out-and-out penalty box killer",
+        "Vulnerable to getting physically overwhelmed by hyper-aggressive vertical counter-pressing units"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Adalberto Carrasquilla",
+        "role": "The Midfield Magician. The technical heart who orchestrates tempo, escapes tight spaces, and picks out locks."
+      },
+      "theWildcard": {
+        "name": "Michael Amir Murillo",
+        "role": "The Flank Locomotive. An elite, attacking right wingback who acts as an essential wide playmaker."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "They are trapped in an absolute Group of Death (Group L) alongside heavyweights England and Croatia. Pulling off an upset will require flawless tactical matches, but their technical stability will keep them highly competitive.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "PAR",
+    "teamName": "Paraguay",
+    "group": "D",
+    "worldRanking": 40,
+    "historicalParticipations": 8,
+    "vibeCheck": "A classic South American defensive fortress returning to the world stage on pure grit and defiance.",
+    "tactics": {
+      "manager": "Gustavo Alfaro",
+      "formation": "Ultra-Disciplined 4-2-3-1 / 4-4-2",
+      "style": "Total spatial suffocation. Nicknamed the 'Hunter of Impossible Utopias', Alfaro sets up a legendary, bone-rattling low block. They entirely concede possession, squeeze the central thirds, and rely strictly on explosive wide forwards to execute rapid transitions."
+    },
+    "pillars": {
+      "strengths": [
+        "An absolutely elite, highly combative central defensive unit that dominates aerial duels",
+        "Incredible physical stamina and collective discipline when playing off the ball"
+      ],
+      "weaknesses": [
+        "Severe lack of technical, sustained possession structures if forced to chase an early deficit",
+        "Prone to attacking isolation if wide wingers are forced to spend matches tracking back defensively"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Miguel Almirón",
+        "role": "The Speed Valve. The primary outlet tasked with picking up clearances and carrying the ball 50 yards at blinding pace."
+      },
+      "theWildcard": {
+        "name": "Julio Enciso",
+        "role": "The Chaos Prodigy. A young, fiercely creative forward given complete tactical freedom to create solo magic out of nothing."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "No one enjoys playing against an Alfaro team. Group D features a highly anticipated matchup with the USA, but Paraguay’s brutal defensive wall is highly primed to grind out ugly, knockout-clinching points.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "POR",
+    "teamName": "Portugal",
+    "group": "K",
+    "worldRanking": 5,
+    "historicalParticipations": 8,
+    "vibeCheck": "A star-studded powerhouse looking to parlay their recent Nations League trophy into ultimate global glory.",
+    "tactics": {
+      "manager": "Roberto Martínez",
+      "formation": "Inverted 4-3-3 / Dynamic 3-4-2-1",
+      "style": "Masterful possession manipulation. Martínez utilizes technical midfielders to entirely dictate central tempo, liberating hyper-creative inside forwards to overload the half-spaces while wide fullbacks stretch the opposition deep."
+    },
+    "pillars": {
+      "strengths": [
+        "Staggering attacking depth and unmatched technical quality in advanced areas",
+        "Incredible tournament momentum following their recent UEFA Nations League victory"
+      ],
+      "weaknesses": [
+        "Highly susceptible to defensive vulnerability on rapid transitional breaks if counter-press triggers fail",
+        "Structural management headaches balancing a massive pool of elite, status-heavy superstars"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Bruno Fernandes",
+        "role": "The Orchestrator. The relentless creative engine driving progressive final-third passes and high-volume shot creation."
+      },
+      "theWildcard": {
+        "name": "Rafael Leão",
+        "role": "The Unpredictable Force. Blinding pace and 1v1 separation power capable of completely blowing past low blocks."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Fresh off winning a major continental trophy, Portugal enters the tournament as genuine favorites. Group K looks highly competitive, but Martínez’s tactical versatility will easily guide them cleanly into the later knockout phases.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "QAT",
+    "teamName": "Qatar",
+    "group": "B",
+    "worldRanking": 55,
+    "historicalParticipations": 1,
+    "vibeCheck": "Seeking global respectability and moving beyond past tournament ghosts under an elite European structural tinkerer.",
+    "tactics": {
+      "manager": "Julen Lopetegui",
+      "formation": "Organized 4-2-3-1 / Compact 5-4-1",
+      "style": "Rigid defensive organization and methodical build-up. Appointed mid-cycle, Lopetegui has completely stripped back their old defensive passivity to instill tight positional discipline, prioritizing central defensive triangles and safety-first possession."
+    },
+    "pillars": {
+      "strengths": [
+        "Greatly improved defensive structure, team organization, and collective spatial awareness",
+        "Excellent clinical telepathy between their long-standing veteran attacking duo"
+      ],
+      "weaknesses": [
+        "Extremely low mechanical recovery pace if caught in an unorganized vertical transition",
+        "Heavy dependency on a singular creative forward to unlock the opposition's low blocks"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Akram Afif",
+        "role": "The Architect. The talismanic forward who carries their entire transition spark and creates from deep wide channels."
+      },
+      "theWildcard": {
+        "name": "Jassem Gaber",
+        "role": "The Swiss Army Knife. Offers vital defensive versatility, moving between midfield and backlines to patch structural leaks."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Lopetegui has brought much-needed European structural organization. Group B is highly erratic, giving Qatar a strong fighting chance to surprise teams and challenge Canada for a knockout slot.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "KSA",
+    "teamName": "Saudi Arabia",
+    "group": "H",
+    "worldRanking": 61,
+    "historicalParticipations": 6,
+    "vibeCheck": "A locally produced, combative squad facing a radical, last-minute tactical experiment.",
+    "tactics": {
+      "manager": "Georgios Donis",
+      "formation": "Adaptive 4-1-4-1 / 5-3-2 Block",
+      "style": "Intimate local knowledge meets late structural overhauls. Hired just two months before the tournament kickoff to replace Herve Renard, Donis uses his extensive Saudi Pro League coaching experience to build a deeply combative mid-block focused on narrow lines and heavy defensive shielding."
+    },
+    "pillars": {
+      "strengths": [
+        "Incredible tactical familiarity among players drawn almost exclusively from the domestic league",
+        "Deeply aggressive, physical midfield pressing triggers that disrupt passing networks"
+      ],
+      "weaknesses": [
+        "Extreme strategic chaos due to the massive, last-minute pre-tournament coaching change",
+        "Complete lack of world-class individual attacking talent to creatively rescue stale possession games"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Salem Al-Dawsari",
+        "role": "The Magician. The legendary veteran captain who provides their lone source of elite, match-winning attacking gravity."
+      },
+      "theWildcard": {
+        "name": "Firas Al-Buraikan",
+        "role": "The Target. A hard-working, clever forward tasked with leading the high press and executing isolated counter-finishes."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Donis is a master of local conditions, but replacing Renard so late introduces extreme structural instability. Trapped in a brutal Group H alongside Spain and Uruguay, their tournament path looks incredibly steep.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "SCO",
+    "teamName": "Scotland",
+    "group": "C",
+    "worldRanking": 43,
+    "historicalParticipations": 7,
+    "vibeCheck": "A tight-knit, fiercely passionate unit ending a 28-year World Cup drought with raw collective spirit.",
+    "tactics": {
+      "manager": "Steve Clarke",
+      "formation": "Stubborn 3-5-2 / 5-4-1 Low-Block",
+      "style": "Textbook structural defensive containment. Clarke completely rejects high-possession philosophies, setting up two ultra-dense defensive banks that narrow the pitch, before utilizing dynamic midfield runners to exploit wide transition zones."
+    },
+    "pillars": {
+      "strengths": [
+        "Exceptional low-block defensive discipline and tireless work-rate off the ball",
+        "Highly dangerous attacking overloads and physical target routes on set-piece plays"
+      ],
+      "weaknesses": [
+        "Noticeable lack of raw, explosive technical pace on the wide transitional flanks",
+        "Struggles immensely to break down lesser-ranked opponents if forced to dominate open-play possession"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Scott McTominay",
+        "role": "The Late Arriver. A powerful, driving midfield engine specialized in crashing the box to score clutch transition goals."
+      },
+      "theWildcard": {
+        "name": "John McGinn",
+        "role": "The Shield. Uses his unique upper-body strength to hold off high presses and drive the team vertically up the pitch."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Clarke's defensive low block is notoriously frustrating to play against. Group C features a daunting Brazil fixture, but Scotland’s elite set-piece efficiency makes them highly capable of grinding their way into the Round of 32.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "SEN",
+    "teamName": "Senegal",
+    "group": "I",
+    "worldRanking": 14,
+    "historicalParticipations": 3,
+    "vibeCheck": "Blending elite, battle-tested legends with Europe's most explosive new youth generation.",
+    "tactics": {
+      "manager": "Pape Thiaw",
+      "formation": "Balanced 4-3-3",
+      "style": "High-octane physical transitions and direct flank overloads. Fresh off leading them to an AFCON final, Thiaw relies on deep defensive stability to win central turnovers, then rapidly feeds the ball into wide attacking channels."
+    },
+    "pillars": {
+      "strengths": [
+        "Elite combination of raw physical speed and elite technical dribbling out wide",
+        "Superb central midfield stability and high-intensity recovery engines"
+      ],
+      "weaknesses": [
+        "Prone to momentary lapses in concentration on rapid, multi-man defensive transitions",
+        "Can look structurally predictable if opponents successfully double-team their primary wide creators"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Sadio Mané",
+        "role": "The Talisman. The veteran leader providing elite attacking gravity, mentorship, and penalty-box intelligence."
+      },
+      "theWildcard": {
+        "name": "Bara Sapoko Ndiaye",
+        "role": "The Breakout. Bayern Munich's rising midfield star injecting fresh vertical passing range into the engine room."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Thiaw’s injection of fresh youth has completely revitalized this team. Expect a classic, heavyweight group stage showdown against France in Group I, but the Lions of Teranga are an absolute lock for the knockouts.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "RSA",
+    "teamName": "South Africa",
+    "group": "A",
+    "worldRanking": 60,
+    "historicalParticipations": 3,
+    "vibeCheck": "A tight-knit, locally grown brotherhood looking to give their legendary boss the perfect tactical send-off.",
+    "tactics": {
+      "manager": "Hugo Broos",
+      "formation": "Cohesive 4-2-3-1",
+      "style": "Unmatched club-level telepathy. The 74-year-old Broos is bucking global trends by selecting almost exclusively home-based players, beautifully replicating the precise positional chemistry and passing flow of domestic giants Mamelodi Sundowns."
+    },
+    "pillars": {
+      "strengths": [
+        "Flawless spatial intuition and natural chemistry from playing together year-round",
+        "High collective engine stamina and exceptional adaptability to thin-air, high-altitude environments"
+      ],
+      "weaknesses": [
+        "Severe lack of exposure to elite European-style physical pressing tempos and direct speed",
+        "Can get structurally pinned deep if forced to defend sustained, high-volume aerial sequences"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Lyle Foster",
+        "role": "The Target Spear. One of their rare European-based stars, tasked with checking deep and physically leading the frontline."
+      },
+      "theWildcard": {
+        "name": "Relebohile Mofokeng",
+        "role": "The Local Spark. An incredibly electric domestic winger capable of turning fullbacks inside out in isolated 1v1s."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Broos is retiring post-tournament and has his squad playing with deep emotional unity. They face extreme tactical stress against co-hosts Mexico in Group A's opening match, but their localized synergy is highly primed to sneak them into the Round of 32.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "ESP",
+    "teamName": "Spain",
+    "group": "H",
+    "worldRanking": 2,
+    "historicalParticipations": 16,
+    "vibeCheck": "The reigning Kings of Europe entering the tournament as undisputed favorites with a family-first culture.",
+    "tactics": {
+      "manager": "Luis de la Fuente",
+      "formation": "Dazzling 4-3-3",
+      "style": "Modernized Positional Play (*Juego de Posición*). De la Fuente has evolved Spain's historic possession obsession into a hyper-lethal template utilizing direct, isolating wing play and a highly protective midfield rest-defense framework."
+    },
+    "pillars": {
+      "strengths": [
+        "The absolute gold-standard 1v1 isolation dribblers and wide crossers in world football",
+        "World-class central control, structural press-resistance, and flawless passing geometry"
+      ],
+      "weaknesses": [
+        "High mechanical defensive line risk if caught flat-footed on a rapid vertical breakout",
+        "Can occasionally lack a physical, direct Plan B if opponents successfully choke out wide channels"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Rodri",
+        "role": "The Matrix. The indispensable defensive midfield anchor who single-handedly orchestrates rest-defense and destroys transitions."
+      },
+      "theWildcard": {
+        "name": "Lamine Yamal",
+        "role": "The Prodigy. Granted total spatial freedom to cut inside from wide-right and unleash world-class final-third magic."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "De la Fuente has constructed a virtually flawless tournament machine. Entering Group H as the absolute class of the pool, expect La Roja to comfortably sweep their way directly into the tournament's deepest knockout rounds.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "SWE",
+    "teamName": "Sweden",
+    "group": "F",
+    "worldRanking": 38,
+    "historicalParticipations": 12,
+    "vibeCheck": "A revitalized, highly technical machine clicking into gear under a brilliant tactical savior.",
+    "tactics": {
+      "manager": "Graham Potter",
+      "formation": "Fluid 3-4-2-1 / Asymmetrical 4-3-3",
+      "style": "Proactive spatial domination. Stepping in late to rescue their cycle, Potter completely discarded their old defensive passivity for short, intricate passing triangles designed to draw out presses before unleashing an elite, lethal strike duo."
+    },
+    "pillars": {
+      "strengths": [
+        "Possessing arguably the most red-hot, clinical, and explosive dual-striker pairing in international football",
+        "Superb technical composure and fluid positional interchange under high central pressure"
+      ],
+      "weaknesses": [
+        "Forced to entirely restructure wide lanes due to Dejan Kulusevski’s tragic, pre-tournament knee surgery",
+        "High tactical risk of getting exploited out wide if progressive center-backs push too high upfield"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Viktor Gyökeres",
+        "role": "The Unstoppable Engine. A hyper-aggressive forward who combines raw physical power with world-class box finishing."
+      },
+      "theWildcard": {
+        "name": "Alexander Isak",
+        "role": "The Silk Weapon. A highly elegant, fast striker who drifts out wide to glide past lines and carve out spatial overloads."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Potter's qualification playoff miracle has turned them into a massive dark horse. They will heavily miss Kulusevski out wide, but the devastating frontline chemistry of Gyökeres and Isak makes Sweden a highly safe bet to comfortably scale out of Group F.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "SUI",
+    "teamName": "Switzerland",
+    "group": "B",
+    "worldRanking": 19,
+    "historicalParticipations": 12,
+    "vibeCheck": "International football's ultimate, unshakeable dark horses arriving with a deeply seasoned spine.",
+    "tactics": {
+      "manager": "Murat Yakin",
+      "formation": "Disciplined 3-4-2-1 / 5-2-3",
+      "style": "Rigid structural block mixed with physical midfield containment. Yakin completely embraces their historical identity—refusing to engage in open-ended chaos and choosing instead to strangle passing lanes before executing direct flank combinations."
+    },
+    "pillars": {
+      "strengths": [
+        "Incredible elite tournament muscle memory and tactical maturity across lines",
+        "An exceptionally robust, combative central midfield defensive screen"
+      ],
+      "weaknesses": [
+        "Historical lack of a prolific, world-class out-and-out central goal striker",
+        "Can look highly predictable and passive if forced to entirely dictate possession"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Granit Xhaka",
+        "role": "The Governor. The ultimate field marshal who controls the tempo, breaks lines, and demands positional excellence."
+      },
+      "theWildcard": {
+        "name": "Breel Embolo",
+        "role": "The Battering Ram. A highly physical forward tasked with holding up play and carving out spaces under pressure."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "They are built specifically to break bracket projections. Slotted in Group B, Yakin’s battle-tested structure should comfortably navigate past Canada and Bosnia to secure a clean knockout slot.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "TUN",
+    "teamName": "Tunisia",
+    "group": "F",
+    "worldRanking": 44,
+    "historicalParticipations": 6,
+    "vibeCheck": "A completely rejuvenated squad undergoing a radical, youthful tactical identity swap.",
+    "tactics": {
+      "manager": "Sabri Lamouchi",
+      "formation": "Dynamic 4-3-3 / 4-2-3-1",
+      "style": "Modern progressive compression. Appointed just months before the tournament to implement a total rebuild, Lamouchi has ruthlessly axed aging veterans to introduce a high-energy midfield press built on rapid transition sequences."
+    },
+    "pillars": {
+      "strengths": [
+        "Total unpredictability following their massive, pre-tournament roster overhaul",
+        "Excellent high-stamina central mobility and modern vertical passing profiles"
+      ],
+      "weaknesses": [
+        "Noticeable deficit in top-tier senior international tournament cohesion",
+        "Highly vulnerable to getting structurally isolated if elite teams bypass their high press"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Hannibal Mejbri",
+        "role": "The Livewire. A hyper-aggressive, creative midfielder tasked with triggering presses and driving the attack forward."
+      },
+      "theWildcard": {
+        "name": "Rani Khedira",
+        "role": "The German Engine. A veteran Bundesliga anchor introduced to inject vital tactical stability into the youthful midfield."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Lamouchi’s extreme roster gamble makes Tunisia a massive wildcard. They are wedged into a daunting Group F alongside the Netherlands and Japan, meaning they will have to pull off a historic structural upset to survive.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "TUR",
+    "teamName": "Türkiye",
+    "group": "D",
+    "worldRanking": 22,
+    "historicalParticipations": 2,
+    "vibeCheck": "An electric, hyper-talented generation running on intense passion and elite technical flair.",
+    "tactics": {
+      "manager": "Vincenzo Montella",
+      "formation": "Fluid 4-2-3-1 / Asymmetrical 4-3-3",
+      "style": "Italian tactical pragmatism meets Turkish individual magic. Montella builds a secure, deeper rest-defense structure, completely freeing his world-class teenage prodigies to creatively floating inside half-spaces and dismantle defenses."
+    },
+    "pillars": {
+      "strengths": [
+        "Breathtaking individual 1v1 technical genius and long-range shooting capability",
+        "Exceptional defensive fullbacks who excel at transition recovery speed"
+      ],
+      "weaknesses": [
+        "Can become emotionally impatient and structurally disorganized if goals don't arrive early",
+        "Vulnerable to getting physically bullied by highly robust, direct aerial setups"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Hakan Çalhanoğlu",
+        "role": "The Quarterback. The veteran captain who sits deep to dictate ball distribution and protect the backline."
+      },
+      "theWildcard": {
+        "name": "Arda Güler",
+        "role": "The Magician. Real Madrid’s crown jewel who uses mesmerizing agility to carve out match-winning final-third openings."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Montella has struck a perfect structural balance with this squad. Group D features a massive tactical encounter against the USA, but Türkiye’s sheer technical ceiling makes them a lock for the Round of 32.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  },
+  {
+    "teamCode": "URU",
+    "teamName": "Uruguay",
+    "group": "H",
+    "worldRanking": 17,
+    "historicalParticipations": 14,
+    "vibeCheck": "A hyper-aggressive, physical powerhouse executing the world's most relentless high-octane press.",
+    "tactics": {
+      "manager": "Marcelo Bielsa",
+      "formation": "Relentless 4-3-3 (Shifting to 3-3-1-3 in attack)",
+      "style": "Pure, unadulterated *Bielsista* chaos. Having fully transitioned past their older golden generation, Bielsa demands total man-marking across the pitch, breath-taking physical output, and explosive vertical overloads designed to entirely overwhelm opponents."
+    },
+    "pillars": {
+      "strengths": [
+        "Unmatched physical engine stamina and savage vertical transition speeds",
+        "An incredibly powerful, world-class central midfield line that dominates duels"
+      ],
+      "weaknesses": [
+        "Extreme structural danger of getting exposed behind if individual man-marking assignments are broken",
+        "Severe mechanical fatigue risks over a deep, expanded tournament knockout schedule"
+      ]
+    },
+    "players": {
+      "theCatalyst": {
+        "name": "Federico Valverde",
+        "role": "The Locomotive. A world-class midfielder with a limitless engine who breaks presses, recovers balls, and scores rockets."
+      },
+      "theWildcard": {
+        "name": "Darwin Núñez",
+        "role": "The Chaos Agent. A hyper-athletic forward who relentlessly stretches center-backs and thrives in frantic transition zones."
+      }
+    },
+    "ourInsight": {
+      "predictionText": "Bielsa has transformed this side into a terrifying tactical nightmare. Group H features an absolute heavyweight blockbuster clash against Spain, but Uruguay's ferocious physical pressing will comfortably carry them into the deep knockout rounds.",
+      "status": "pending",
+      "badgeColor": "violet"
+    }
+  }
+
+]

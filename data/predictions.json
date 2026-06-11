@@ -1,0 +1,142 @@
+{
+  "groupStage": {
+    "A": {
+      "standings": ["MEX", "KOR", "CZE", "RSA"],
+      "rationale": "Mexico exploits home Aztec energy to top the group. South Korea's tactical discipline outlasts Czechia's physical block."
+    },
+    "B": {
+      "standings": ["SUI", "CAN", "BIH", "QAT"],
+      "rationale": "Switzerland's elite tournament maturity secures clean sheets, while Canada's wild 'Maplepressing' riding home turf adrenaline edges them into 2nd."
+    },
+    "C": {
+      "standings": ["BRA", "MAR", "SCO", "HAI"],
+      "rationale": "Carlo Ancelotti's Brazil is the absolute class of this pool, leveraging Vinícius Júnior's devastating 1v1 gravity for a flawless group stage. Morocco secures second through Mohamed Ouahbi's youth-fueled high press, while Scotland's stubborn 5-4-1 low block and Scott McTominay's clutch box-crashing goals grind out enough points to comfortably advance via the third-place leaderboard."
+    },
+    "D": {
+      "standings": ["USA", "TUR", "PAR", "AUS"],
+      "rationale": "The USA tops the group on home soil using Pochettino's real-time video adjustments and high-octane overlapping fullback engines. Vincenzo Montella's Türkiye claims second by unlocking stubborn lines with Arda Güler's final-third magic, while Paraguay's bone-rattling defensive wall secures a third-place qualification ticket, leaving a transitioning Australia creatively toothless."
+    },
+    "E": {
+      "standings": ["GER", "ECU", "CIV", "CUW"],
+      "rationale": "Germany's hyper-fluid space manipulation under Nagelsmann easily secures top spot. Ecuador's ferocious, high-octane counter-press locks down second, while Ivory Coast's absolute defensive low-block steel makes them a lock to advance via the third-place leaderboard."
+    },
+    "F": {
+      "standings": ["NED", "JPN", "SWE", "TUN"],
+      "rationale": "The Netherlands use elite center-back distribution to control the pace and win the group. Japan's lightning technical midfield triangles take second. Sweden will heavily miss Kulusevski, but the sheer power of Gyökeres and Isak punches them through as a top-tier third-place team."
+    },
+    "G": {
+      "standings": ["BEL", "EGY", "IRN", "NZL"],
+      "rationale": "Rudi Garcia's vertical, transition-heavy Belgium sweeps the pool. Egypt relies strictly on Mohamed Salah's individual clinical gravity to capture second. Iran's immense veteran tournament experience gives them a slight edge to hunt a wildcard spot over a predictable New Zealand crossing setup."
+    },
+    "H": {
+      "standings": ["ESP", "URU", "KSA", "CPV"],
+      "rationale": "Luis de la Fuente's direct, modernized Spain is the class of the pool. Marcelo Bielsa's terrifying, relentless man-marking Uruguay secures an easy second. Saudi Arabia's extreme pre-tournament coaching change limits their ceiling, while Cabo Verde's low-scoring template keeps them grounded."
+    },
+    "I": {
+      "standings": ["FRA", "NOR", "SEN", "IRQ"],
+      "rationale": "Deschamps' unbreakable mid-block keeps France spotless. Martin Ødegaard feeding Erling Haaland allows Norway to break their tournament curse and coast into second. Senegal’s electric new youth generation makes them an incredibly high-value qualifier from the third-place board."
+    },
+    "J": {
+      "standings": ["ARG", "AUT", "ALG", "JOR"],
+      "rationale": "Scaloni’s chameleon Argentina completely dominates the tactical phases. Ralf Rangnick's high-intensity Austrian Gegenpressing chokes out opponents for second. Petković’s stabilized Algeria will challenge heavily for a knockout spot, leaving fairytale debutants Jordan short despite Al-Tamari's heroic transitional bursts."
+    },
+    "K": {
+      "standings": ["POR", "COL", "UZB", "COD"],
+      "rationale": "Portugal enters with elite continental trophy momentum to breeze through the group stage. Néstor Lorenzo's hyper-fluid, vertical Colombia locks down a comfortable second. Fabio Cannavaro’s young, Italian-style defensive low block anchors a historic advanced spot for dark horse Uzbekistan."
+    },
+    "L": {
+      "standings": ["ENG", "CRO", "PAN", "GHA"],
+      "rationale": "Thomas Tuchel's clinical knockout pedigree steers England cleanly to the top. Dalić's high-IQ Croatia uses unrivaled composure to pass their way into second. Panama's possession-heavy model will fight beautifully but fall just short of the third-place point cutoff, while Ghana looks too toothless under last-minute shifts."
+    }
+  },
+  "thirdPlaceLeaderboard": [
+    {
+      "rank": 1,
+      "teamCode": "SEN",
+      "points": 5,
+      "advanced": true,
+      "rationale": "The ultimate heavyweight casualty of a brutal Group I. Remained undefeated but ran into drawing stalemates against France and Norway."
+    },
+    {
+      "rank": 2,
+      "teamCode": "SWE",
+      "points": 4,
+      "advanced": true,
+      "rationale": "Advanced comfortably on high goals-scored metrics thanks to the absolute, unadulterated clinical chaos of the Gyökeres-Isak frontline."
+    },
+    {
+      "rank": 3,
+      "teamCode": "CIV",
+      "points": 4,
+      "advanced": true,
+      "rationale": "Emerse Faé’s defensive steel secures a positive goal difference. They didn't score much, but they completely refused to concede."
+    },
+    {
+      "rank": 4,
+      "teamCode": "PAR",
+      "points": 4,
+      "advanced": true,
+      "rationale": "Classic Gustavo Alfaro grindhouse football. Squeezed out a signature 1-0 win and a scoreless draw to comfortably lock down safety."
+    },
+    {
+      "rank": 5,
+      "teamCode": "ALG",
+      "points": 4,
+      "advanced": true,
+      "rationale": "Petković’s tactical adjustments paid off heavily with a vital transition-heavy win over Jordan, keeping their goal difference perfectly level."
+    },
+    {
+      "rank": 6,
+      "teamCode": "CZE",
+      "points": 4,
+      "advanced": true,
+      "rationale": "Bypassed midfields to exploit their massive height advantage, executing an ugly but highly effective set-piece win against South Africa."
+    },
+    {
+      "rank": 7,
+      "teamCode": "SCO",
+      "points": 4,
+      "advanced": true,
+      "rationale": "Scott McTominay’s heroic, late box-crashing goals grabbed a chaotic win against Haiti to barely slide them over the defensive cutoff line."
+    },
+    {
+      "rank": 8,
+      "teamCode": "UZB",
+      "points": 4,
+      "advanced": true,
+      "rationale": "Fabio Cannavaro's brilliant young defensive low block makes historic debutant history, snatching the final ticket on clean-sheet tiebreakers."
+    },
+    {
+      "rank": 9,
+      "teamCode": "BIH",
+      "points": 3,
+      "advanced": false,
+      "rationale": "Fought like absolute lions under Barbarez, but a late, chaotic concession against Canada ruined their goal difference and broke their hearts."
+    },
+    {
+      "rank": 10,
+      "teamCode": "IRN",
+      "points": 3,
+      "advanced": false,
+      "rationale": "Their veteran defensive core simply ran out of engine stamina against Egypt's vertical speed, leaving them just one point short of safety."
+    },
+    {
+      "rank": 11,
+      "teamCode": "PAN",
+      "points": 2,
+      "advanced": false,
+      "rationale": "Thomas Christiansen's gorgeous, Spanish-style possession play earned style points and two fine draws, but they completely lacked a clinical box-killer to find a win."
+    },
+    {
+      "rank": 12,
+      "teamCode": "KSA",
+      "points": 1,
+      "advanced": false,
+      "rationale": "Georgios Donis's last-minute structural system changes introduces too much tactical friction to survive a ruthless slaughterhouse with Spain and Uruguay."
+    }
+  ],
+  "knockoutRoundOf32": {
+    "M73": { "teamA": "", "teamB": "", "note": "Runner up A vs Runner up B" },
+    "M74": { "teamA": "", "teamB": "", "note": "Winner E vs allocated 3rd place team" }
+  }
+}

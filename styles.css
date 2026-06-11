@@ -1,0 +1,576 @@
+/* ─────────────────────────────────────────────────────────────
+   Kick Off — FIFA 2026
+   Custom styles. Tailwind handles layout/spacing/color utilities.
+   This file covers: components, animations, prose, overrides.
+───────────────────────────────────────────────────────────── */
+
+/* ── Prediction Tracker chip ────────────────────────────────── */
+.tracker-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  background: #1a1a24;
+  border: 1px solid #2a2a38;
+  border-radius: 99px;
+  padding: 4px 12px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  cursor: default;
+  white-space: nowrap;
+}
+.tracker-label { color: #666688; font-weight: 500; margin-right: 2px; }
+.tracker-w     { color: #4ade80; }
+.tracker-l     { color: #f87171; }
+.tracker-d     { color: #888899; }
+.tracker-unit  { font-weight: 400; font-size: 10px; margin-right: 4px; }
+.tracker-sep   { color: #444458; font-weight: 400; }
+
+/* ── Tabs ──────────────────────────────────────────────────── */
+.tab-btn {
+  color: #888899;
+  background: transparent;
+  border: 1px solid transparent;
+}
+.tab-btn.active {
+  color: #e8e0ff;
+  background: rgba(124, 58, 237, 0.15);
+  border-color: rgba(124, 58, 237, 0.4);
+}
+.tab-btn:hover:not(.active) {
+  color: #c0c0d0;
+  background: #1a1a24;
+}
+
+/* ── Base card ─────────────────────────────────────────────── */
+.card-base {
+  background: #1a1a24;
+  border: 1px solid #2a2a38;
+  border-radius: 14px;
+  padding: 18px 20px;
+}
+
+/* ── Match card ────────────────────────────────────────────── */
+.match-card {
+  background: #1a1a24;
+  border: 1px solid #2a2a38;
+  border-radius: 14px;
+  padding: 18px 20px;
+  transition: border-color 0.2s;
+}
+.match-card:hover {
+  border-color: #3a3a50;
+}
+.match-card.status-live {
+  border-color: #7c3aed;
+  box-shadow: 0 0 0 1px rgba(124, 58, 237, 0.3);
+}
+.match-card.status-completed {
+  opacity: 0.75;
+}
+
+/* Stage/meta row */
+.match-meta {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #888899;
+  margin-bottom: 14px;
+}
+
+/* Team row */
+.team-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+.team-side {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex: 1;
+}
+.team-side.right {
+  flex-direction: row-reverse;
+  text-align: right;
+}
+.team-flag {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid #2a2a38;
+  flex-shrink: 0;
+}
+.team-name {
+  font-size: 15px;
+  font-weight: 700;
+  color: #f0f0f0;
+  line-height: 1.2;
+}
+.team-vibe {
+  font-size: 11px;
+  color: #888899;
+  margin-top: 2px;
+  line-height: 1.4;
+}
+
+/* Score / VS separator */
+.match-score {
+  font-size: 22px;
+  font-weight: 700;
+  color: #f0f0f0;
+  min-width: 56px;
+  text-align: center;
+  flex-shrink: 0;
+}
+.match-vs {
+  font-size: 13px;
+  font-weight: 600;
+  color: #888899;
+  min-width: 32px;
+  text-align: center;
+  flex-shrink: 0;
+}
+.match-time {
+  font-size: 12px;
+  color: #a0a0b8;
+  text-align: center;
+  margin-top: 2px;
+}
+
+/* ── Market Odds ───────────────────────────────────────────── */
+.market-odds {
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid #2a2a38;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.odds-row {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  font-size: 12px;
+  color: #888899;
+}
+.odds-label {
+  font-weight: 600;
+  color: #a0a0b8;
+  min-width: 72px;
+}
+.odds-value {
+  color: #c8c8e0;
+}
+.odds-placeholder {
+  color: #444458;
+  font-style: italic;
+}
+
+/* ── Our Take (editorial prediction block) ──────────────────── */
+.our-take {
+  margin-top: 14px;
+  padding: 12px 16px;
+  border-left: 3px solid #7c3aed;
+  background: rgba(124, 58, 237, 0.07);
+  border-radius: 0 8px 8px 0;
+}
+.our-take-label {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #7c3aed;
+  font-family: 'Inter', sans-serif;
+  margin-bottom: 6px;
+}
+.our-take-text {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: #c4b5fd;
+}
+.our-take-stakes {
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px solid rgba(124, 58, 237, 0.2);
+  font-size: 12px;
+  color: #9880d4;
+  line-height: 1.5;
+}
+.our-take-calling {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid rgba(124, 58, 237, 0.2);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.our-take-calling strong { font-weight: 700; }
+.call-pending  { color: #666688; }
+.call-pending strong { color: #a78bfa; }
+.call-correct  { color: #4ade80; }
+.call-correct strong { color: #4ade80; }
+.call-wrong    { color: #f87171; }
+.call-wrong strong { color: #f87171; }
+.call-icon { font-weight: 700; margin-left: 2px; }
+
+/* ── Team Pillars Accordion ────────────────────────────────── */
+.pillars-toggle {
+  margin-top: 14px;
+  width: 100%;
+  text-align: left;
+  font-size: 12px;
+  font-weight: 600;
+  color: #888899;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  transition: color 0.2s;
+}
+.pillars-toggle:hover {
+  color: #c0c0d0;
+}
+.pillars-toggle .chevron {
+  transition: transform 0.2s;
+  display: inline-block;
+}
+.pillars-toggle.open .chevron {
+  transform: rotate(180deg);
+}
+.pillars-body {
+  display: none;
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid #2a2a38;
+}
+.pillars-body.open {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+@media (max-width: 768px) {
+  .pillars-body.open {
+    grid-template-columns: 1fr;
+  }
+}
+.pillars-col h4 {
+  font-size: 13px;
+  font-weight: 700;
+  color: #e0e0f0;
+  margin-bottom: 6px;
+  letter-spacing: 0;
+  text-transform: none;
+}
+.pillars-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.pillars-list li {
+  font-size: 12px;
+  color: #b0b0c8;
+  line-height: 1.4;
+  padding-left: 12px;
+  position: relative;
+}
+.pillars-list li::before {
+  content: '·';
+  position: absolute;
+  left: 2px;
+  color: #888899;
+}
+.pillars-list.weakness li::before {
+  color: #664444;
+}
+.player-chip {
+  margin-top: 10px;
+  padding: 8px 10px;
+  background: #12121a;
+  border-radius: 8px;
+  font-size: 11px;
+}
+.player-chip .player-role-label {
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #888899;
+  margin-bottom: 2px;
+}
+.player-chip .player-name {
+  font-weight: 600;
+  color: #e0e0f0;
+  font-size: 12px;
+}
+.player-chip .player-role {
+  color: #888899;
+  margin-top: 1px;
+  font-size: 11px;
+  line-height: 1.3;
+}
+
+/* ── Tactics block (inside pillars accordion) ───────────────── */
+.tactics-stats {
+  font-size: 11px;
+  color: #888899;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.tactics-sep {
+  color: #444458;
+}
+.tactics-block {
+  background: #12121a;
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.tactics-row {
+  display: flex;
+  gap: 8px;
+  font-size: 12px;
+  align-items: baseline;
+}
+.tactics-label {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #888899;
+  min-width: 52px;
+  flex-shrink: 0;
+}
+.tactics-value {
+  color: #c8c8e0;
+  font-weight: 600;
+  font-size: 12px;
+}
+.tactics-style {
+  font-size: 11.5px;
+  color: #8888a0;
+  line-height: 1.55;
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 1px solid #2a2a38;
+  font-style: italic;
+}
+.pillars-section-label {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #5b9e6e;
+  margin-bottom: 6px;
+}
+.weakness-label {
+  color: #9e5b5b;
+}
+
+/* ── Blog Cards ─────────────────────────────────────────────── */
+.blog-card {
+  background: #1a1a24;
+  border: 1px solid #2a2a38;
+  border-radius: 14px;
+  padding: 16px 20px;
+  cursor: pointer;
+  transition: border-color 0.2s, background 0.2s;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+}
+.blog-card:hover {
+  border-color: #7c3aed;
+  background: #1e1e2e;
+}
+.blog-card-text {
+  flex: 1;
+}
+.blog-card-title {
+  font-size: 14px;
+  font-weight: 700;
+  color: #f0f0f0;
+  line-height: 1.35;
+  margin-bottom: 4px;
+}
+.blog-card-subtitle {
+  font-size: 12px;
+  color: #888899;
+  line-height: 1.4;
+}
+.blog-card-meta {
+  font-size: 11px;
+  color: #666677;
+  margin-top: 6px;
+}
+.blog-card-arrow {
+  color: #444458;
+  flex-shrink: 0;
+  transition: color 0.2s, transform 0.2s;
+}
+.blog-card:hover .blog-card-arrow {
+  color: #7c3aed;
+  transform: translateX(3px);
+}
+
+/* ── Blog Reader (prose) ─────────────────────────────────────── */
+.prose-dark h1 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 26px;
+  font-weight: 700;
+  color: #f0f0f0;
+  line-height: 1.3;
+  margin-bottom: 6px;
+}
+.prose-dark .blog-subtitle {
+  font-size: 14px;
+  color: #888899;
+  margin-bottom: 4px;
+  line-height: 1.5;
+}
+.prose-dark .blog-read-time {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #7c3aed;
+  margin-bottom: 28px;
+  display: block;
+}
+.prose-dark h3 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: #e8e8f8;
+  margin-top: 28px;
+  margin-bottom: 10px;
+  line-height: 1.3;
+}
+.prose-dark p {
+  font-size: 15px;
+  line-height: 1.75;
+  color: #c0c0d8;
+  margin-bottom: 16px;
+}
+.prose-dark .callout {
+  border-left: 3px solid #7c3aed;
+  background: rgba(124, 58, 237, 0.07);
+  border-radius: 0 8px 8px 0;
+  padding: 12px 16px;
+  margin: 20px 0;
+}
+.prose-dark .callout p {
+  font-size: 13.5px;
+  color: #c4b5fd;
+  margin: 0;
+}
+.prose-dark ol {
+  counter-reset: ol-counter;
+  padding: 0;
+  margin: 16px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.prose-dark ol li {
+  counter-increment: ol-counter;
+  padding-left: 28px;
+  position: relative;
+  font-size: 15px;
+  line-height: 1.6;
+  color: #c0c0d8;
+}
+.prose-dark ol li::before {
+  content: counter(ol-counter) '.';
+  position: absolute;
+  left: 0;
+  font-weight: 700;
+  color: #7c3aed;
+}
+.prose-dark ol li strong {
+  color: #e8e8f8;
+  display: block;
+  margin-bottom: 4px;
+}
+.prose-dark ul {
+  padding: 0;
+  margin: 16px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.prose-dark ul li {
+  padding-left: 16px;
+  position: relative;
+  font-size: 15px;
+  line-height: 1.6;
+  color: #c0c0d8;
+}
+.prose-dark ul li::before {
+  content: '—';
+  position: absolute;
+  left: 0;
+  color: #7c3aed;
+  font-weight: 700;
+}
+.prose-dark ul li strong {
+  color: #e8e8f8;
+}
+
+/* ── Live badge ─────────────────────────────────────────────── */
+.live-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #a78bfa;
+  background: rgba(124, 58, 237, 0.15);
+  border-radius: 99px;
+  padding: 3px 8px;
+}
+.live-badge::before {
+  content: '';
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #7c3aed;
+  animation: pulse-dot 1.5s ease-in-out infinite;
+}
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%       { opacity: 0.5; transform: scale(0.7); }
+}
+
+/* ── No matches empty state ─────────────────────────────────── */
+.empty-state {
+  text-align: center;
+  padding: 48px 24px;
+  color: #888899;
+}
+.empty-state p {
+  font-size: 14px;
+  line-height: 1.6;
+}

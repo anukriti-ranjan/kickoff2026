@@ -1,0 +1,1823 @@
+[
+  {
+    "matchId": "M1",
+    "stage": "Group A",
+    "group": "A",
+    "date": "2026-06-11",
+    "time": "13:00",
+    "timezone": "UTC-6",
+    "venue": "Estadio Azteca, Mexico City",
+    "teamA_code": "MEX",
+    "teamB_code": "RSA",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Aguirre's shape-shifting chaos machine meets Broos's beautifully rehearsed Sundowns symphony \u2014 Mexico will try to overwhelm South Africa with relentless positional rotation before Bafana can settle into their passing rhythm, but if Mofokeng gets one-on-one against a marauding Mexican fullback in open space, this gets complicated fast.",
+      "stakes": "A South Africa upset at the Azteca wouldn't just be the shock of the tournament \u2014 it would instantly blow Group A wide open and put Mexico in a desperate, pressure-cooker chase for second place against teams they expected to leapfrog.",
+      "predictedWinner": "MEX"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M2",
+    "stage": "Group A",
+    "group": "A",
+    "date": "2026-06-11",
+    "time": "20:00",
+    "timezone": "UTC-6",
+    "venue": "Estadio Akron, Zapopan",
+    "teamA_code": "KOR",
+    "teamB_code": "CZE",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Korea want to stretch Czechia vertically with multi-lane runs and Son's gravitational pull \u2014 but Koubek's deep defensive banks are built exactly to suffocate that kind of space. The real battle is whether Bae Jun-ho can thread the needle between the lines before altitude fatigue turns Korea's high-tempo engine into a spluttering mess in the final twenty minutes.",
+      "stakes": "A Czech upset here scrambles the whole Group A calculus \u2014 suddenly South Africa smells blood, Korea's predicted second-place finish is under threat, and Czechia transforms from cannon fodder into genuine contenders for one of those precious third-place lifelines.",
+      "predictedWinner": "KOR"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M3",
+    "stage": "Group B",
+    "group": "B",
+    "date": "2026-06-12",
+    "time": "15:00",
+    "timezone": "UTC-4",
+    "venue": "BMO Field, Toronto",
+    "teamA_code": "CAN",
+    "teamB_code": "BIH",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Canada's 'Maplepressing' machine is basically a giant trap designed to feast on exactly what Bosnia does \u2014 slow build-up, direct balls, and a target man who needs time to hold play. The moment D\u017eeko tries to shield possession under a BMO Field crowd losing its mind, Davies is already sprinting past him and Jonathan David is circling like a shark.",
+      "stakes": "A Canadian win here locks in the Group B pecking order early and confirms that home-soil adrenaline is a genuine force multiplier \u2014 but a Bosnian upset blows the whole group wide open and puts Switzerland in the rare position of needing results, not just performing them.",
+      "predictedWinner": "CAN"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M4",
+    "stage": "Group D",
+    "group": "D",
+    "date": "2026-06-12",
+    "time": "18:00",
+    "timezone": "UTC-7",
+    "venue": "SoFi Stadium, Inglewood",
+    "teamA_code": "USA",
+    "teamB_code": "PAR",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Paraguay will park the bus so deep at SoFi that Alfaro might as well hand out mining helmets \u2014 but Pochettino's fullback-fueled 3-2-5 is basically a battering ram built for exactly this kind of fortress wall, and when Pulisic drifts inside to unlock central lanes, that low block is going to have serious cracks. The real danger for the USA is their own ambition: if those fullbacks push too high and Paraguay spring Almir\u00f3n on a 50-yard gallop into open space, this home crowd goes very quiet very fast.",
+      "stakes": "A USA win here plants their flag at the top of Group D and validates the Pochettino project on the biggest stage imaginable, but a Paraguay upset reshuffles the entire group pecking order and turns Matchday 2 into a white-knuckle survival scramble for the hosts.",
+      "predictedWinner": "USA"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M5",
+    "stage": "Group C",
+    "group": "C",
+    "date": "2026-06-13",
+    "time": "21:00",
+    "timezone": "UTC-4",
+    "venue": "Gillette Stadium, Foxborough",
+    "teamA_code": "HAI",
+    "teamB_code": "SCO",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "This is a beautiful tactical trap: Haiti want vertical chaos and open space to run into, but Scotland's entire identity is built around slamming that door shut and suffocating exactly that kind of team. The real question is whether Bellegarde can drag Haiti out of their own half fast enough to hit Scotland before Clarke's two defensive banks reset \u2014 because once Scotland are locked in, they are an absolute nightmare to break down.",
+      "stakes": "A Scottish win here is the quiet, unglamorous foundation of their entire tournament survival plan \u2014 drop points to Haiti and the path to a third-place qualification slot becomes a razor-thin tightrope walk against Brazil and Morocco.",
+      "predictedWinner": "SCO"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M6",
+    "stage": "Group D",
+    "group": "D",
+    "date": "2026-06-13",
+    "time": "21:00",
+    "timezone": "UTC-7",
+    "venue": "BC Place, Vancouver",
+    "teamA_code": "AUS",
+    "teamB_code": "TUR",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Popovic's defensive fortress \u2014 five bodies behind the ball, set-piece menace, and relentless physicality \u2014 is practically a tailor-made nightmare for a T\u00fcrkiye side that melts when it can't score early and hates getting bullied in the air. But the moment Australia needs to actually break T\u00fcrkiye down, Arda G\u00fcler only needs one moment of witchcraft on the counter to punish that toothless attack.",
+      "stakes": "A T\u00fcrkiye win locks up second place in Group D and renders the final matchday a formality, but an Australian upset would throw the entire group into chaos and put Montella's golden generation on upset alert heading into a must-win finale.",
+      "predictedWinner": "TUR"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M7",
+    "stage": "Group C",
+    "group": "C",
+    "date": "2026-06-13",
+    "time": "18:00",
+    "timezone": "UTC-4",
+    "venue": "MetLife Stadium, East Rutherford",
+    "teamA_code": "BRA",
+    "teamB_code": "MAR",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Morocco's high press is brave, bold, and three months old \u2014 the moment Vin\u00edcius J\u00fanior gets a yard of space behind that experimental defensive line, Ancelotti's Brazil will punish them with surgical, repeat-dose efficiency. Ouahbi's kids are believers, but belief doesn't track Vini on the turn.",
+      "stakes": "A Morocco upset here doesn't just scramble Group C \u2014 it signals that Brazil's much-hyped Ancelotti era has a glass jaw, and every team left on their path will smell blood.",
+      "predictedWinner": "BRA"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M8",
+    "stage": "Group B",
+    "group": "B",
+    "date": "2026-06-13",
+    "time": "12:00",
+    "timezone": "UTC-7",
+    "venue": "Levi's Stadium, Santa Clara",
+    "teamA_code": "QAT",
+    "teamB_code": "SUI",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Lopetegui's Qatar will sit deep and dare Switzerland to break them down \u2014 but Xhaka's midfield stranglehold will suffocate Afif before he ever gets going, turning this into a slow-burn tactical siege that only one side has the tournament experience to win. Qatar's defensive scaffolding is genuinely improved, but Yakin's 3-4-2-1 was practically designed in a lab to neutralize a team built around one creative forward.",
+      "stakes": "A Swiss win here all but locks Group B's top seed and sends Qatar spiraling toward a must-win finale against Bosnia, making the bottom half of the group a sudden survival scramble.",
+      "predictedWinner": "SUI"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M9",
+    "stage": "Group E",
+    "group": "E",
+    "date": "2026-06-14",
+    "time": "19:00",
+    "timezone": "UTC-4",
+    "venue": "Lincoln Financial Field, Philadelphia",
+    "teamA_code": "CIV",
+    "teamB_code": "ECU",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Ecuador's terrifying counter-press is built to feast on passive, build-up-shy teams \u2014 and Ivory Coast's structurally static midfield is practically a buffet. But Fa\u00e9's defensive wall, anchored by N'Dicka, is precisely the kind of immovable object that turns Ecuador's finishing inefficiency into a crisis.",
+      "stakes": "An Ecuadorian win here locks in the group's predicted pecking order and leaves Ivory Coast scrambling to survive on third-place points, while a CIV upset would blow Group E wide open and put Ecuador in genuine danger of a knockout-round collision with a heavyweight.",
+      "predictedWinner": "ECU"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M10",
+    "stage": "Group E",
+    "group": "E",
+    "date": "2026-06-14",
+    "time": "12:00",
+    "timezone": "UTC-5",
+    "venue": "NRG Stadium, Houston",
+    "teamA_code": "GER",
+    "teamB_code": "CUW",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Germany's relentless space-investigation will suffocate Cura\u00e7ao's wide attacking ambitions before they ever get started \u2014 Wirtz and Musiala will hunt the half-spaces like sharks, turning every Cura\u00e7ao possession turnover into an instant crisis. Advocaat's classic Dutch wing play needs room to breathe, and Nagelsmann's savage counter-press simply won't give them any.",
+      "stakes": "A convincing German victory immediately stamps their authority as Group E's dominant force, confirming the predicted standings and leaving Cura\u00e7ao's tournament fairytale dependent on miracle results against Ecuador and Ivory Coast.",
+      "predictedWinner": "GER"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M11",
+    "stage": "Group F",
+    "group": "F",
+    "date": "2026-06-14",
+    "time": "15:00",
+    "timezone": "UTC-5",
+    "venue": "AT&T Stadium, Arlington",
+    "teamA_code": "NED",
+    "teamB_code": "JPN",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "This is a clash of two possession philosophies that genuinely respect and mirror each other \u2014 but Netherlands bring the physical disruption that Japan's intricate triangles hate most, and Van Dijk alone could neutralize Japan's entire attacking blueprint by simply refusing to be pulled out of position. Xavi Simons operating in those half-spaces against a Japan midfield forced to track inverted wingbacks is the knife that opens this game up.",
+      "stakes": "A Dutch win locks in the group hierarchy on Day 1 and puts Japan in the uncomfortable position of needing results elsewhere, while a Japanese upset would instantly blow Group F wide open and signal to the entire tournament that this squad is the real deal.",
+      "predictedWinner": "NED"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M12",
+    "stage": "Group F",
+    "group": "F",
+    "date": "2026-06-14",
+    "time": "20:00",
+    "timezone": "UTC-6",
+    "venue": "Estadio BBVA, Guadalupe",
+    "teamA_code": "SWE",
+    "teamB_code": "TUN",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Tunisia's frantic high press is either their golden weapon or their worst nightmare here \u2014 because Potter has specifically rebuilt Sweden to lure exactly that kind of aggression, spring the trap, and feed two of the most ruthless strikers at this tournament. Hannibal can spark chaos, but Gy\u00f6keres and Isak eating space behind a broken press is a horror movie Tunisia's raw backline simply isn't ready to survive.",
+      "stakes": "A Sweden win locks in the Group F pecking order exactly as predicted and quietly confirms their path as a dangerous third-place qualifier, while a Tunisian upset would detonate the entire group and suddenly make every team in F recalculate their survival math.",
+      "predictedWinner": "SWE"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M13",
+    "stage": "Group H",
+    "group": "H",
+    "date": "2026-06-15",
+    "time": "18:00",
+    "timezone": "UTC-4",
+    "venue": "Hard Rock Stadium, Miami Gardens",
+    "teamA_code": "KSA",
+    "teamB_code": "URU",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Saudi Arabia's newly-wired mid-block will sit deep and dare Uruguay to break them down \u2014 but Bielsa's relentless man-marking press is specifically designed to suffocate exactly that kind of cramped, defensive shape, and once Valverde and company force a turnover in the final third, KSA's lack of world-class attackers means they simply cannot hit back fast enough to punish the exposed Uruguayan backline.",
+      "stakes": "A Uruguay win here locks in the group's expected hierarchy on Day 1, making Saudi Arabia's path to a miraculous third-place advancement almost entirely dependent on results they can't control \u2014 while an upset would detonate the whole Group H script and suddenly make Cabo Verde dangerous.",
+      "predictedWinner": "URU"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M14",
+    "stage": "Group H",
+    "group": "H",
+    "date": "2026-06-15",
+    "time": "12:00",
+    "timezone": "UTC-4",
+    "venue": "Mercedes-Benz Stadium, Atlanta",
+    "teamA_code": "ESP",
+    "teamB_code": "CPV",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Cabo Verde will park every single body behind the ball and dare Spain to break them down \u2014 but De la Fuente's wide isolators are precisely the weapon designed to crack deep blocks, and Lamine Yamal against Steven Moreira in a 1v1 is less a tactical battle and more a mismatch waiting to happen. Spain's relentless positional pressure will eventually suffocate Jamiro Monteiro's counter-attacking release valve, leaving Cabo Verde with nowhere to breathe and no way out.",
+      "stakes": "A commanding Spanish victory locks in the group hierarchy on Day 1 and quietly signals to Uruguay, Saudi Arabia, and every other contender that the reigning European champions arrived in Atlanta ready to go all the way.",
+      "predictedWinner": "ESP"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M15",
+    "stage": "Group G",
+    "group": "G",
+    "date": "2026-06-15",
+    "time": "18:00",
+    "timezone": "UTC-7",
+    "venue": "SoFi Stadium, Inglewood",
+    "teamA_code": "IRN",
+    "teamB_code": "NZL",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Iran's disciplined mid-block is practically engineered to smother exactly what New Zealand want to do \u2014 clog the wide channels, neutralize Chris Wood's aerial threat, and strangle the crossing supply before it even starts. Ghalenoei's battle-hardened veterans will absorb pressure and punish the All Whites on the counter through Taremi's physical intelligence, turning New Zealand's predictable directness into their own worst enemy.",
+      "stakes": "A New Zealand upset here doesn't just shake Group G \u2014 it rips Iran's wildcard lifeline wide open and forces them into a desperate chase against Belgium and Egypt, potentially gifting the All Whites a historic third-place slot in the most competitive bracket of their footballing lives.",
+      "predictedWinner": "IRN"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M16",
+    "stage": "Group G",
+    "group": "G",
+    "date": "2026-06-15",
+    "time": "12:00",
+    "timezone": "UTC-7",
+    "venue": "Lumen Field, Seattle",
+    "teamA_code": "BEL",
+    "teamB_code": "EGY",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Belgium want to run at you vertically and let Doku eat fullbacks alive \u2014 but Egypt's entire tactical identity is built around absorbing exactly that kind of chaos, sitting deep, and waiting for the one moment Salah ghosts in behind a high defensive line. The real question is whether De Bruyne can unlock a disciplined low block before Hossam Hassan's side springs the counter Egypt have been rehearsing for years.",
+      "stakes": "A Belgian win confirms the group hierarchy immediately and leaves Egypt in a desperate must-not-lose race with Iran for second, while an Egyptian upset would detonate the entire pool and put Belgium under genuine pressure they are not built to handle.",
+      "predictedWinner": "BEL"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M17",
+    "stage": "Group I",
+    "group": "I",
+    "date": "2026-06-16",
+    "time": "15:00",
+    "timezone": "UTC-4",
+    "venue": "MetLife Stadium, East Rutherford",
+    "teamA_code": "FRA",
+    "teamB_code": "SEN",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Deschamps' suffocating mid-block was built precisely to neutralize teams like Senegal \u2014 physical, wide-heavy, and reliant on transition momentum \u2014 and the moment France snuffs out those flank overloads, Mbapp\u00e9 gets handed an open runway against a backline chasing shadows. Thiaw's Lions are electric, but Griezmann conducting a counter-pressing orchestra at MetLife is a cruel first-round draw for any team still finding its feet.",
+      "stakes": "A French win locks in the group's expected hierarchy on Day 1, but a Senegal upset doesn't just shake Group I \u2014 it supercharges the third-place race and forces every other group to recalibrate what a 'safe' qualification margin actually looks like.",
+      "predictedWinner": "FRA"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M18",
+    "stage": "Group I",
+    "group": "I",
+    "date": "2026-06-16",
+    "time": "18:00",
+    "timezone": "UTC-4",
+    "venue": "Gillette Stadium, Foxborough",
+    "teamA_code": "IRQ",
+    "teamB_code": "NOR",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Graham Arnold's Iraqi war machine is built to suffocate exactly the kind of fluid, half-space runners Norway depend on \u2014 but the brutal irony is that Haaland doesn't need half-spaces, he needs one ball over the top and a defender who blinked. Iraq's defensive line stepping out to press is basically ringing the dinner bell for the most dangerous striker on the planet.",
+      "stakes": "A Norway win here is the opening nail in Iraq's coffin and quietly confirms the Group I pecking order before it even gets interesting \u2014 but an Iraqi upset via set-piece carnage would crack the group wide open and send Senegal's third-place hopes into overdrive.",
+      "predictedWinner": "NOR"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M19",
+    "stage": "Group J",
+    "group": "J",
+    "date": "2026-06-16",
+    "time": "20:00",
+    "timezone": "UTC-5",
+    "venue": "Arrowhead Stadium, Kansas City",
+    "teamA_code": "ARG",
+    "teamB_code": "ALG",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Algeria's swarming forward press is tailor-made to panic rattled center-backs \u2014 but Scaloni's chameleon system was literally designed to make aggressive pressing teams chase shadows in the wrong shape. The moment Algeria commits those fullbacks forward, Argentina's mid-match switch to a three-back overload will carve the vertical space behind them wide open.",
+      "stakes": "An Argentine win here doesn't just confirm the pecking order in Group J \u2014 it sends a warning shot to every contender that the world champions' tactical evolution is real, while condemning Algeria to a nervy fight for a third-place lifeline from matchday two onward.",
+      "predictedWinner": "ARG"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M20",
+    "stage": "Group J",
+    "group": "J",
+    "date": "2026-06-16",
+    "time": "21:00",
+    "timezone": "UTC-7",
+    "venue": "Levi's Stadium, Santa Clara",
+    "teamA_code": "AUT",
+    "teamB_code": "JOR",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Rangnick's relentless Gegenpressing machine is about to run a crash course in what happens when you throw six attackers at a team built specifically to absorb pressure and detonate on the break \u2014 Jordan's 5-4-1 shell is a trap, and Austria's marauding fullbacks are walking right into it. The question isn't whether Austria dominate possession; it's whether Al-Tamari punishes them on the one moment they leave the door open.",
+      "stakes": "An Austrian win locks in the group's predicted pecking order and puts real pressure on Algeria and Jordan to fight desperately for that critical third-place lifeline, while a Jordanian upset would be the most seismic opening-day result in the entire tournament and blow Group J wide open.",
+      "predictedWinner": "AUT"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M21",
+    "stage": "Group L",
+    "group": "L",
+    "date": "2026-06-17",
+    "time": "19:00",
+    "timezone": "UTC-4",
+    "venue": "BMO Field, Toronto",
+    "teamA_code": "GHA",
+    "teamB_code": "PAN",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Queiroz's freshly-bolted defensive fortress will attempt to sit deep and absorb Panama's patient, probing possession \u2014 but Christiansen's side has spent years learning exactly how to pick apart low blocks with Carrasquilla threading needles in tight spaces. The real danger for Ghana isn't the first wave of Panama pressure; it's that Kudus and Williams may simply never see enough of the ball to threaten a breakout.",
+      "stakes": "A Panama win here all but confirms the group's predicted pecking order and puts Ghana in a desperate must-result situation against stronger opposition, effectively ending their campaign before it truly begins.",
+      "predictedWinner": "PAN"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M22",
+    "stage": "Group L",
+    "group": "L",
+    "date": "2026-06-17",
+    "time": "15:00",
+    "timezone": "UTC-5",
+    "venue": "AT&T Stadium, Arlington",
+    "teamA_code": "ENG",
+    "teamB_code": "CRO",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "This is a war of philosophies: Tuchel's hyper-vertical chaos machine \u2014 built to punch through midfield lines at terrifying speed \u2014 crashing headfirst into Dali\u0107's patient, suffocating possession labyrinth designed to drain the life out of exactly that kind of aggression. If England concede first and that historic panic sets in, Croatia's midfield maestros will simply walk the ball into the net one composed pass at a time.",
+      "stakes": "An England loss on Matchday 1 doesn't just scramble Group L's predicted order \u2014 it hands Croatia psychological supremacy heading into the knockout bracket and signals to the entire tournament that Tuchel's revolution is still a work in progress.",
+      "predictedWinner": "ENG"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M23",
+    "stage": "Group K",
+    "group": "K",
+    "date": "2026-06-17",
+    "time": "12:00",
+    "timezone": "UTC-5",
+    "venue": "NRG Stadium, Houston",
+    "teamA_code": "POR",
+    "teamB_code": "COD",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Congo DR will park an ultra-disciplined mid-block and dare Portugal to break them down through width \u2014 but Roberto Mart\u00ednez's half-space overloads and Rafael Le\u00e3o's nuclear pace off the flank are basically a cheat code against exactly this kind of defensive setup. The moment Bruno Fernandes picks the first lock and Portugal go up early, Desabre's entire game plan collapses like a house of cards.",
+      "stakes": "A Portugal win here stamps their authority as Group K's inevitable frontrunners and effectively sentences Congo DR to a three-game survival scramble just to claw toward a best third-place berth.",
+      "predictedWinner": "POR"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M24",
+    "stage": "Group K",
+    "group": "K",
+    "date": "2026-06-17",
+    "time": "20:00",
+    "timezone": "UTC-6",
+    "venue": "Estadio Azteca, Mexico City",
+    "teamA_code": "UZB",
+    "teamB_code": "COL",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Cannavaro's disciplined low block is tailor-made to suffocate exactly the kind of free-flowing, fullback-bombing system Lorenzo deploys \u2014 but the moment Colombia's Luis D\u00edaz gets the ball in space on that right channel, Uzbekistan's debutant nerves could crack open under the Azteca lights. This is a chess match between structure and chaos, and chaos usually blinks first at a World Cup.",
+      "stakes": "A Colombia win here is the expected result that quietly locks in the Group K hierarchy before a ball is even kicked in anger \u2014 but an Uzbekistan upset would torch the entire predicted standings and force Portugal to suddenly treat this group like a minefield rather than a victory lap.",
+      "predictedWinner": "COL"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M25",
+    "stage": "Group A",
+    "group": "A",
+    "date": "2026-06-18",
+    "time": "12:00",
+    "timezone": "UTC-4",
+    "venue": "Mercedes-Benz Stadium, Atlanta",
+    "teamA_code": "CZE",
+    "teamB_code": "RSA",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Czechia want to turn this into an aerial war \u2014 long balls raining down on South Africa's back four, Schick lurking for scraps, Sou\u010dek winning everything that moves. But Broos's telepathic Sundowns-baked unit could completely suffocate that direct threat by staying compact and threading quick combinations through the lines before the Czech block ever gets set.",
+      "stakes": "A South Africa upset here would blow Group A wide open, potentially pushing Czechia into a brutal scramble for a third-place spot and handing Bafana Bafana a genuine shot at the knockout rounds in what could be their greatest World Cup moment.",
+      "predictedWinner": "CZE"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M26",
+    "stage": "Group B",
+    "group": "B",
+    "date": "2026-06-18",
+    "time": "12:00",
+    "timezone": "UTC-7",
+    "venue": "SoFi Stadium, Inglewood",
+    "teamA_code": "SUI",
+    "teamB_code": "BIH",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Yakin's suffocating 3-4-2-1 block was basically designed in a lab to neutralize exactly what Bosnia do \u2014 the long ball to D\u017eeko, the aerial chaos, the raw physicality \u2014 and Xhaka will strangle the vertical lanes before BIH even realize they're being slowly suffocated. Bosnia need tempo and emotional chaos to thrive, but Switzerland will hand them nothing but organized misery.",
+      "stakes": "A Swiss win confirms the group hierarchy exactly as predicted and sends Bosnia home, but a stunning BIH upset would blow Group B wide open and potentially relegate Switzerland to a white-knuckle scramble for one of those precious best third-place slots.",
+      "predictedWinner": "SUI"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M27",
+    "stage": "Group B",
+    "group": "B",
+    "date": "2026-06-18",
+    "time": "15:00",
+    "timezone": "UTC-7",
+    "venue": "BC Place, Vancouver",
+    "teamA_code": "CAN",
+    "teamB_code": "QAT",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Canada's relentless Maplepressing was basically engineered in a lab to destroy exactly what Qatar are offering \u2014 a slow, safety-first build-up that turns to dust the second Davies hits warp speed down the left flank. Lopetegui can drill his defensive triangles all he wants, but no amount of positional discipline survives a Jonathan David forced turnover in the final third with 60,000 Canadians losing their minds.",
+      "stakes": "A Canadian win locks in their predicted second-place finish and confirms the co-host dream is real, but a shock Qatar result would throw the entire Group B picture into chaos and force a brutal final-day math scramble for Switzerland and Bosnia.",
+      "predictedWinner": "CAN"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M28",
+    "stage": "Group A",
+    "group": "A",
+    "date": "2026-06-18",
+    "time": "19:00",
+    "timezone": "UTC-6",
+    "venue": "Estadio Akron, Zapopan",
+    "teamA_code": "MEX",
+    "teamB_code": "KOR",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Korea's high-tempo 4-2-3-1 wants to blitz Mexico in vertical bursts before the altitude bleeds them dry \u2014 but Aguirre's shape-shifting defensive setup and a roaring Estadio Akron crowd are specifically designed to swallow exactly that kind of early aggression. The real battle is whether Son and Bae can carve open Mexico's unsettled backline before C\u00e9sar Montes locks the door and the thin Guadalajara air starts whispering in Korean lungs.",
+      "stakes": "A Mexico win here all but stamps their group ticket and drops Korea into a nervy must-not-lose final match against Czechia, while a Korean upset would detonate Group A wide open and make every remaining result feel like a cup final.",
+      "predictedWinner": "MEX"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M29",
+    "stage": "Group C",
+    "group": "C",
+    "date": "2026-06-19",
+    "time": "20:30",
+    "timezone": "UTC-4",
+    "venue": "Lincoln Financial Field, Philadelphia",
+    "teamA_code": "BRA",
+    "teamB_code": "HAI",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Haiti's entire gameplan lives and dies on the counter \u2014 which is exactly the trap Ancelotti's 'rest defense' was built to spring shut. Vin\u00edcius J\u00fanior stretching that back four wide open while Brazil's midfield shield suffocates Bellegarde's carry lanes? Haiti won't get the vertical runway they need.",
+      "stakes": "A Brazil win rubber-stamps Ancelotti's side as the runaway Group C bulldozer and effectively confirms Haiti's early exit, while a Haitian upset would shatter the standings and force Morocco and Scotland into a sudden pressure cooker for that second automatic spot.",
+      "predictedWinner": "BRA"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M30",
+    "stage": "Group C",
+    "group": "C",
+    "date": "2026-06-19",
+    "time": "18:00",
+    "timezone": "UTC-4",
+    "venue": "Gillette Stadium, Foxborough",
+    "teamA_code": "SCO",
+    "teamB_code": "MAR",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Morocco's aggressive new high-press is a beautifully loaded gun pointed directly at the wrong target \u2014 Scotland's entire identity is built to bait exactly that kind of pressure, absorb it deep in their own half, then knife through the exposed space behind with McTominay arriving late like a freight train. Clarke will sit back, let Hakimi run himself into a cul-de-sac, and wait for the one moment that matters.",
+      "stakes": "A Scottish win doesn't just embarrass Morocco's shiny new tactical identity \u2014 it blows Group C wide open, potentially dragging both sides into the white-knuckle chaos of the third-place leaderboard scramble with Brazil still to play.",
+      "predictedWinner": "SCO"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M31",
+    "stage": "Group D",
+    "group": "D",
+    "date": "2026-06-19",
+    "time": "20:00",
+    "timezone": "UTC-7",
+    "venue": "Levi's Stadium, Santa Clara",
+    "teamA_code": "TUR",
+    "teamB_code": "PAR",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Paraguay will pack every blade of grass in their own half and dare Arda G\u00fcler to break them down \u2014 but that's exactly the kind of invitation the Real Madrid magician was born to accept. Montella's free-floating half-space runners are a nightmare for a low block that needs wide corridors to breathe, and once G\u00fcler finds the first crack, Paraguay's brittle attacking isolation becomes a fatal liability.",
+      "stakes": "A T\u00fcrkiye win locks in the group's predicted order and confirms Paraguay must sweat out the best third-place scramble, while a Paraguayan upset would detonate the bracket and send Montella's emotionally volatile side into the knockout rounds with serious questions about their mental composure.",
+      "predictedWinner": "TUR"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M32",
+    "stage": "Group D",
+    "group": "D",
+    "date": "2026-06-19",
+    "time": "12:00",
+    "timezone": "UTC-7",
+    "venue": "Lumen Field, Seattle",
+    "teamA_code": "USA",
+    "teamB_code": "AUS",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Pochettino's high-flying fullback engines will relentlessly probe Australia's five-man defensive shell, but the real duel is between Pulisic drifting into the pockets Popovic's mid-block deliberately leaves open and Irvine's jet-heeled mission to shut those pockets down before they become chances. When the USA inevitably pin those wingbacks deep in the second half, Irankunda off the bench could be the chaos agent nobody in Seattle is ready for \u2014 but it's probably too little, too late against a host nation running on rocket fuel.",
+      "stakes": "A USA win locks up Group D as predicted and sends a loud signal to the rest of the tournament that Pochettino's side is a genuine contender, while an Australian upset would scramble the entire group picture and potentially send the hosts into a brutal knockout bracket position.",
+      "predictedWinner": "USA"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M33",
+    "stage": "Group E",
+    "group": "E",
+    "date": "2026-06-20",
+    "time": "16:00",
+    "timezone": "UTC-4",
+    "venue": "BMO Field, Toronto",
+    "teamA_code": "GER",
+    "teamB_code": "CIV",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "This is the ultimate locksmith versus the locked door \u2014 Wirtz and Musiala probing endlessly for the crack in N'Dicka's fortress, while Adingra lurks like a lit fuse waiting to punish Germany's exposed flanks on the break. Nagelsmann's fluid machine should eventually find the key, but Fa\u00e9's shape will make them earn every single millimetre.",
+      "stakes": "A C\u00f4te d'Ivoire upset here would shatter Group E's assumed order and force Germany into a must-win final matchday, while simultaneously cementing the Elephants as genuine dark horses rather than mere third-place hopefuls.",
+      "predictedWinner": "GER"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M34",
+    "stage": "Group E",
+    "group": "E",
+    "date": "2026-06-20",
+    "time": "19:00",
+    "timezone": "UTC-5",
+    "venue": "Arrowhead Stadium, Kansas City",
+    "teamA_code": "ECU",
+    "teamB_code": "CUW",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Beccacece's suffocating high line will hunt Cura\u00e7ao's Dutch-schooled midfield like prey \u2014 the moment Caicedo locks onto Bacuna's late runs, the creative oxygen gets cut off completely. Advocaat's fluid wing play needs *space* to breathe, and Ecuador are specifically built to make sure that space never exists.",
+      "stakes": "An Ecuador win here all but stamps their ticket to the knockout rounds and buries Cura\u00e7ao's fairytale before it ever really started \u2014 but a Cura\u00e7ao upset would blow Group E wide open and send shockwaves through the entire third-place race.",
+      "predictedWinner": "ECU"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M35",
+    "stage": "Group F",
+    "group": "F",
+    "date": "2026-06-20",
+    "time": "12:00",
+    "timezone": "UTC-5",
+    "venue": "NRG Stadium, Houston",
+    "teamA_code": "NED",
+    "teamB_code": "SWE",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Van Dijk and the Netherlands' ball-progressive backline will look to suffocate Sweden's dual-striker threat before it ignites \u2014 but Potter's intricate central triangles are designed precisely to lure out those aggressive center-backs and release Gy\u00f6keres and Isak into the vacated pockets behind them. Without Kulusevski stretching the Dutch wide channels, Sweden's attack funnels centrally, which is exactly where Van Dijk lives and breathes.",
+      "stakes": "A Swedish upset here would blow Group F wide open and potentially knock the Netherlands off top spot, forcing them into a perilous knockout bracket collision they didn't budget for \u2014 while confirming Potter's tactical revolution as a genuine tournament-level threat.",
+      "predictedWinner": "NED"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M36",
+    "stage": "Group F",
+    "group": "F",
+    "date": "2026-06-20",
+    "time": "22:00",
+    "timezone": "UTC-6",
+    "venue": "Estadio BBVA, Guadalupe",
+    "teamA_code": "TUN",
+    "teamB_code": "JPN",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Tunisia's kamikaze high press is built to rattle teams into mistakes \u2014 but Japan's midfield triangles are specifically designed to eat aggressive pressure for breakfast, recycle it, and punish the gaps left behind. Hannibal Mejbri will run himself into the ground trying to trigger chaos, and Wataru Endo will calmly hoover it all up before Mitoma unlocks the backline.",
+      "stakes": "A Japan win here locks up their second-place finish and sends Tunisia into a must-win Matchday 3 against Sweden \u2014 turning Group F's bottom half into a brutal elimination fight before the knockout rounds even begin.",
+      "predictedWinner": "JPN"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M37",
+    "stage": "Group H",
+    "group": "H",
+    "date": "2026-06-21",
+    "time": "18:00",
+    "timezone": "UTC-4",
+    "venue": "Hard Rock Stadium, Miami Gardens",
+    "teamA_code": "URU",
+    "teamB_code": "CPV",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Cabo Verde's deep five-man block is built to frustrate exactly one type of team \u2014 and unfortunately for Bubista, Bielsa's Uruguay isn't a patient possession side waiting to be frustrated, they're a suffocating, vertical wrecking ball that attacks the spaces behind defensive lines before they've even formed. The moment Valverde breaks the first press and N\u00fa\u00f1ez gets in behind that backline, Cabo Verde's disciplined dream night becomes a damage-limitation nightmare.",
+      "stakes": "A Uruguay win locks in their expected second-place finish and sends a warning shot to every potential knockout-round opponent, but a stunning Cabo Verde upset would blow Group H wide open and force Uruguay into a sudden-death scramble on Matchday 3.",
+      "predictedWinner": "URU"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M38",
+    "stage": "Group H",
+    "group": "H",
+    "date": "2026-06-21",
+    "time": "12:00",
+    "timezone": "UTC-4",
+    "venue": "Mercedes-Benz Stadium, Atlanta",
+    "teamA_code": "ESP",
+    "teamB_code": "KSA",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Saudi Arabia's narrow mid-block and physical pressing triggers are built to suffocate exactly the kind of intricate passing networks Spain loves to weave \u2014 but Donis inherited this squad two months ago, and Lamine Yamal doesn't care about your defensive shape. The moment KSA's lines compress centrally, Yamal cuts inside and the whole experiment unravels.",
+      "stakes": "A Spanish win all but seals Group H as predicted and sends Saudi Arabia into a must-not-lose finale against Cabo Verde just to chase a third-place lifeline \u2014 but an upset would blow the group wide open and make Uruguay sweat.",
+      "predictedWinner": "ESP"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M39",
+    "stage": "Group G",
+    "group": "G",
+    "date": "2026-06-21",
+    "time": "12:00",
+    "timezone": "UTC-7",
+    "venue": "SoFi Stadium, Inglewood",
+    "teamA_code": "BEL",
+    "teamB_code": "IRN",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Iran's suffocating mid-block was built in a lab to neutralize exactly the kind of vertical, winger-reliant attack Belgium lives and dies by \u2014 but Doku's raw chaos and De Bruyne's instant-release passing are the two variables Ghalenoei's system simply cannot account for on paper. When Belgium's transitions click at full voltage, even the most disciplined containment unit gets cooked.",
+      "stakes": "A Belgium win locks in their group dominance and quietly buries Iran's slim automatic qualification hopes, making their path to the Round of 32 entirely dependent on a wildcard miracle \u2014 a precarious position for a squad already absorbing enormous pressure off the pitch.",
+      "predictedWinner": "BEL"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M40",
+    "stage": "Group G",
+    "group": "G",
+    "date": "2026-06-21",
+    "time": "18:00",
+    "timezone": "UTC-7",
+    "venue": "BC Place, Vancouver",
+    "teamA_code": "NZL",
+    "teamB_code": "EGY",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "New Zealand will spend ninety minutes hurling crosses into the box like they're trying to win a prize at a funfair \u2014 and Egypt will spend ninety minutes waiting for the moment Chris Wood wanders too far from his post before releasing Salah like a greyhound into the gap. This is a battle of blunt force versus surgical precision, and precision historically wins.",
+      "stakes": "An Egypt win here locks in the group hierarchy exactly as predicted and quietly extinguishes any lingering All Whites magic before it can spark \u2014 but a New Zealand upset would throw Group G into genuine chaos and force Egypt into a must-win final match against Belgium with their tournament life on the line.",
+      "predictedWinner": "EGY"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M41",
+    "stage": "Group I",
+    "group": "I",
+    "date": "2026-06-22",
+    "time": "20:00",
+    "timezone": "UTC-4",
+    "venue": "MetLife Stadium, East Rutherford",
+    "teamA_code": "NOR",
+    "teamB_code": "SEN",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "This is the classic unmovable object vs. unstoppable force problem: Senegal's deep defensive block and explosive transition machine is precisely the kind of setup that either neutralizes \u00d8degaard's half-space wizardry or gets absolutely torched by it the moment Haaland finds two inches of daylight. Thiaw's Lions will overload the flanks and hunt for turnovers, but Norway's vertical tempo is built to punish exactly that kind of committed, high-risk pressing.",
+      "stakes": "A Senegal victory here doesn't just shake up Group I \u2014 it throws them directly into automatic qualification contention and turns Norway's 'comfortable second place' narrative into a sudden, sweaty fight for survival.",
+      "predictedWinner": "NOR"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M42",
+    "stage": "Group I",
+    "group": "I",
+    "date": "2026-06-22",
+    "time": "17:00",
+    "timezone": "UTC-4",
+    "venue": "Lincoln Financial Field, Philadelphia",
+    "teamA_code": "FRA",
+    "teamB_code": "IRQ",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Iraq's Arnold-engineered defensive bus is built to frustrate exactly this kind of opponent \u2014 but France doesn't need to unlock a door when Mbapp\u00e9 can simply blow the wall down on the counter. The moment Iraq's backline steps up to chase a set-piece, that's when Griezmann springs the trap and the game is over.",
+      "stakes": "A France win here all but rubber-stamps their group dominance and quietly buries Iraq's tournament hopes before Matchday 3 even arrives \u2014 confirming this Group I is playing out exactly as scripted, with only the race for third keeping anything alive.",
+      "predictedWinner": "FRA"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M43",
+    "stage": "Group J",
+    "group": "J",
+    "date": "2026-06-22",
+    "time": "12:00",
+    "timezone": "UTC-5",
+    "venue": "AT&T Stadium, Arlington",
+    "teamA_code": "ARG",
+    "teamB_code": "AUT",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Rangnick's high-octane Gegenpressing machine will hunt Argentina's backline with terrifying synchronized fury \u2014 but Scaloni's chameleon system exists precisely to punish teams that overcommit up the pitch, and the moment Austria's fullbacks push into that 3-1-6 overload, Messi will find the vertical seam that unravels the whole thing. This is a tactical arms race between Europe's most disciplined pressing side and the world champions who were literally built to exploit pressing traps.",
+      "stakes": "An Austrian upset here would blow Group J wide open, gifting Algeria a genuine shot at second place and turning what looked like a coronation lap for the reigning champions into a genuine knife-fight for survival.",
+      "predictedWinner": "ARG"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M44",
+    "stage": "Group J",
+    "group": "J",
+    "date": "2026-06-22",
+    "time": "20:00",
+    "timezone": "UTC-7",
+    "venue": "Levi's Stadium, Santa Clara",
+    "teamA_code": "JOR",
+    "teamB_code": "ALG",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Algeria's wide overloads and A\u00eft-Nouri's relentless underlapping runs are going to find exactly the kind of stretched, fatigued backline that Jordan's 5-4-1 shell eventually becomes \u2014 but before that happens, Al-Tamari will have at least one terrifying burst into the acres of space Petkovi\u0107's fullbacks leave behind. This is a match where Algeria's attacking ambition is also their biggest vulnerability, and Jordan will absolutely try to knife them on the break.",
+      "stakes": "An Algerian win locks up their third-place buffer and puts Jordan effectively on life-support for advancement, but a Jordanian upset would blow Group J wide open and potentially drag Algeria into a brutal must-win final day against Argentina.",
+      "predictedWinner": "ALG"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M45",
+    "stage": "Group L",
+    "group": "L",
+    "date": "2026-06-23",
+    "time": "16:00",
+    "timezone": "UTC-4",
+    "venue": "Gillette Stadium, Foxborough",
+    "teamA_code": "ENG",
+    "teamB_code": "GHA",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Tuchel's relentless press-and-transition machine is going to suffocate Queiroz's low block until it cracks \u2014 Kane drops deep to drag Ghana's midfield shield out of shape, then Morgan Rogers drives straight through the gap like a battering ram. Queiroz simply hasn't had enough time to drill his defensive system against this level of systemic aggression.",
+      "stakes": "A Ghana upset would blow Group L wide open and put England's top-seed status \u2014 and their favorable knockout bracket path \u2014 in genuine jeopardy with Croatia still to come.",
+      "predictedWinner": "ENG"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M46",
+    "stage": "Group L",
+    "group": "L",
+    "date": "2026-06-23",
+    "time": "19:00",
+    "timezone": "UTC-4",
+    "venue": "BMO Field, Toronto",
+    "teamA_code": "PAN",
+    "teamB_code": "CRO",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Two possession-obsessed sides who both refuse to play ugly \u2014 but Croatia's midfield has been doing this on the biggest stages for a decade, and Modri\u0107 threading balls through Panama's five-man defensive block is a chess grandmaster playing a gifted student. Carrasquilla can match the tempo, but Dali\u0107's slow-burn suffocation has a habit of quietly draining the life out of exactly this kind of technically tidy opponent.",
+      "stakes": "A Panama upset here blows Group L wide open and potentially drags Croatia into a nervy final-day decider against England for top spot, while a Croatian win quietly cements the group's predicted hierarchy and sends Panama scrambling for a third-place lifeline.",
+      "predictedWinner": "CRO"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M47",
+    "stage": "Group K",
+    "group": "K",
+    "date": "2026-06-23",
+    "time": "12:00",
+    "timezone": "UTC-5",
+    "venue": "NRG Stadium, Houston",
+    "teamA_code": "POR",
+    "teamB_code": "UZB",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Cannavaro's low block is built exactly to suffocate Portugal's half-space overloads \u2014 but Roberto Mart\u00ednez has Rafael Le\u00e3o as a blowtorch aimed directly at that disciplined back three, and one moment of blistering pace could reduce Uzbekistan's tactical masterplan to rubble. This is a chess match where one side brought a flamethrower.",
+      "stakes": "A Portugal win keeps the group table clean and predictable, but an Uzbekistan point here would be seismic \u2014 suddenly the dark horses are sniffing automatic qualification and the pressure flips entirely onto Colombia's matchday results.",
+      "predictedWinner": "POR"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M48",
+    "stage": "Group K",
+    "group": "K",
+    "date": "2026-06-23",
+    "time": "20:00",
+    "timezone": "UTC-6",
+    "venue": "Estadio Akron, Zapopan",
+    "teamA_code": "COL",
+    "teamB_code": "COD",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Congo DR will park the bus, lock the doors, and swallow the key \u2014 but Lorenzo's Colombia doesn't need a road map when James Rodr\u00edguez is conducting and Luis D\u00edaz is detonating down the left channel. The moment Mbemba's block gets dragged wide and disorganized, Colombia's vertical fluidity will find the gaps like water through cracks.",
+      "stakes": "A Colombia win keeps their second-place march on schedule and quietly buries Congo DR's slim hopes of sneaking into the best third-place bracket, making this effectively a must-win for Desabre's side.",
+      "predictedWinner": "COL"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M49",
+    "stage": "Group C",
+    "group": "C",
+    "date": "2026-06-24",
+    "time": "18:00",
+    "timezone": "UTC-4",
+    "venue": "Hard Rock Stadium, Miami Gardens",
+    "teamA_code": "SCO",
+    "teamB_code": "BRA",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Scotland's twin defensive banks are built to suffocate exactly the kind of wide, flair-driven attack Brazil loves \u2014 but Steve Clarke has never faced a winger who moves like Vin\u00edcius J\u00fanior, a man who turns double-teams into highlight reels. The real battle is whether McTominay can crash the box on the counter before Ancelotti's rest defense snuffs the flames before they even start.",
+      "stakes": "A Scotland upset here would torch the Group C table, potentially shoving Brazil into a brutal knockout path and forcing the Scots to leapfrog their way off the third-place leaderboard into outright automatic qualification \u2014 rewriting the entire tournament narrative in one Miami night.",
+      "predictedWinner": "BRA"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M50",
+    "stage": "Group C",
+    "group": "C",
+    "date": "2026-06-24",
+    "time": "18:00",
+    "timezone": "UTC-4",
+    "venue": "Mercedes-Benz Stadium, Atlanta",
+    "teamA_code": "MAR",
+    "teamB_code": "HAI",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Morocco's relentless high press should suffocate exactly the kind of team Haiti is \u2014 a counter-punching side that needs space and chaos to breathe, not a structured cage closing around them. Ouahbi's fearless system is built to dominate possession and deny the vertical channels Wilson Isidor needs to ignite; this is a tactical mismatch dressed up as a football match.",
+      "stakes": "A Moroccan win locks in second place in Group C and validates Ouahbi's bold tactical reinvention on the world stage, while a Haitian upset would be one of the great tournament shocks in FIFA World Cup history and send a chaotic ripple through the third-place race.",
+      "predictedWinner": "MAR"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M51",
+    "stage": "Group B",
+    "group": "B",
+    "date": "2026-06-24",
+    "time": "12:00",
+    "timezone": "UTC-7",
+    "venue": "BC Place, Vancouver",
+    "teamA_code": "SUI",
+    "teamB_code": "CAN",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Yakin's suffocating 3-4-2-1 block is tailor-made to neutralise exactly the kind of frantic, press-and-sprint chaos that Canada lives and dies by \u2014 the moment Xhaka and company absorb the Maplepressing wave and play out the back cleanly, Canada's defensive house of cards is brutally exposed on the counter. But on home soil at BC Place, with Davies tearing lines apart and David lurking on every forced error, Switzerland's passive tendencies could hand the crowd exactly the chaos they came for.",
+      "stakes": "A Swiss win confirms the group's predicted order and sends a chilling message to the rest of the tournament that Yakin's dark horses are no fluke, but a Canadian victory flips Group B upside down and turns Vancouver into a pressure cooker for every team chasing a top-two spot.",
+      "predictedWinner": "SUI"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M52",
+    "stage": "Group B",
+    "group": "B",
+    "date": "2026-06-24",
+    "time": "12:00",
+    "timezone": "UTC-7",
+    "venue": "Lumen Field, Seattle",
+    "teamA_code": "BIH",
+    "teamB_code": "QAT",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Bosnia's thunderous direct play and aerial battering-ram D\u017eeko were practically designed to punish Lopetegui's safety-first structure \u2014 if they can pin Qatar back and force vertical transitions, Qatar's glacial recovery pace gets brutally exposed. The real danger is Afif ghosting into wide channels against Bosnia's notoriously porous wide defensive shape, but Qatar simply don't have enough bodies to sustain pressure once this match turns emotional and physical.",
+      "stakes": "With both sides likely already peering nervously at the third-place rankings, a Bosnian win locks up a far safer route to the Round of 16 while sending Qatar into a white-knuckle scramble against seven other elimination-zone survivors.",
+      "predictedWinner": "BIH"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M53",
+    "stage": "Group A",
+    "group": "A",
+    "date": "2026-06-24",
+    "time": "19:00",
+    "timezone": "UTC-6",
+    "venue": "Estadio Azteca, Mexico City",
+    "teamA_code": "CZE",
+    "teamB_code": "MEX",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Mexico's wide weapons need to unlock Czechia's fortress walls, but Aguirre's rotating cast of attackers has never faced a low-block this suffocating \u2014 Sou\u010dek will clog the middle, force traffic wide, and dare Gim\u00e9nez to survive on scraps. The Azteca roar could either electrify El Tri into brilliance or mask the fact that nobody can actually break this thing down.",
+      "stakes": "A Czech upset here doesn't just send shockwaves through Group A \u2014 it flips the entire standings, potentially demoting Mexico to a third-place scramble and turning what looked like a coronation on home soil into a crisis.",
+      "predictedWinner": "MEX"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M54",
+    "stage": "Group A",
+    "group": "A",
+    "date": "2026-06-24",
+    "time": "19:00",
+    "timezone": "UTC-6",
+    "venue": "Estadio BBVA, Guadalupe",
+    "teamA_code": "RSA",
+    "teamB_code": "KOR",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "South Africa's beautifully drilled Sundowns-blueprint will absorb Korea's vertical press with the kind of quiet, suffocating spatial intelligence that panic-buys no superstar can replicate \u2014 but Son's gravitational pull and Bae's line-breaking creativity are precisely the tools designed to crack deep, organized blocks. The twist? Korea's high-tempo engine runs on fumes by the 70th minute at altitude, and Mofokeng needs just one moment of tired legs to torch a fullback and end this.",
+      "stakes": "A South Africa upset doesn't just shake Group A \u2014 it yanks Korea from their secured second-place berth and forces a chaotic recalculation of third-place qualification math that could ripple across the entire tournament bracket.",
+      "predictedWinner": "RSA"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M55",
+    "stage": "Group E",
+    "group": "E",
+    "date": "2026-06-25",
+    "time": "16:00",
+    "timezone": "UTC-4",
+    "venue": "Lincoln Financial Field, Philadelphia",
+    "teamA_code": "CUW",
+    "teamB_code": "CIV",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Cura\u00e7ao's fluid Dutch wing triangles will probe and probe, but every time Tahith Chong cuts inside he's going to run directly into Evan N'Dicka's brick wall \u2014 and Simon Adingra on the other end will be absolutely feasting on fullbacks who've never seen pace like that on a World Cup stage. Advocaat's fairytale collides with Fa\u00e9's fortress, and fortresses tend to win.",
+      "stakes": "A C\u00f4te d'Ivoire win locks in their third-place finish and almost certainly punches their ticket to the knockout round via the best third-place leaderboard, while a Cura\u00e7ao upset would shatter the group narrative and send shockwaves through every nation nervously watching their third-place hopes.",
+      "predictedWinner": "CIV"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M56",
+    "stage": "Group E",
+    "group": "E",
+    "date": "2026-06-25",
+    "time": "16:00",
+    "timezone": "UTC-4",
+    "venue": "MetLife Stadium, East Rutherford",
+    "teamA_code": "ECU",
+    "teamB_code": "GER",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Two of the most ferocious counter-pressing machines at this tournament collide head-on, but Germany's hyper-fluid positional rotations are specifically designed to suffocate exactly the kind of high-line, suffocating trap that Ecuador live and die by \u2014 Wirtz and Musiala will ghost into the pockets between Beccacece's defensive structure before Ecuador's engine even realises they're already unlocked. This is Ecuador's ceiling test, and Germany are the exam they haven't passed yet.",
+      "stakes": "A German win confirms the Group E hierarchy exactly as predicted and sends Ecuador into the knockout rounds as a dangerous but battle-tested second-place side, while an Ecuador upset would be a seismic shockwave that reframes every assumption about where Nagelsmann's machine truly sits among the tournament favourites.",
+      "predictedWinner": "GER"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M57",
+    "stage": "Group F",
+    "group": "F",
+    "date": "2026-06-25",
+    "time": "18:00",
+    "timezone": "UTC-5",
+    "venue": "AT&T Stadium, Arlington",
+    "teamA_code": "JPN",
+    "teamB_code": "SWE",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Japan's hypnotic midfield triangles will try to suffocate Sweden's central lanes \u2014 but Potter's masterstroke is that he's built his entire attack around two strikers who don't need wide service to destroy you. The real question is whether Wataru Endo can vacuum up enough transitions to stop Gy\u00f6keres and Isak from punishing the exact moment Japan's geometry gets too clever for its own good.",
+      "stakes": "A Sweden win would flip Group F into chaos, potentially relegating Japan to a nerve-shredding third-place scramble while confirming that Potter's striker-powered machine is a genuine dark horse threat to any team left in this tournament.",
+      "predictedWinner": "JPN"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M58",
+    "stage": "Group F",
+    "group": "F",
+    "date": "2026-06-25",
+    "time": "18:00",
+    "timezone": "UTC-5",
+    "venue": "Arrowhead Stadium, Kansas City",
+    "teamA_code": "TUN",
+    "teamB_code": "NED",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Tunisia's hyper-aggressive press is a fascinating gamble against the one team built to destroy it \u2014 Netherlands' ball-progressive center-backs will eat that high line alive, threading clinical passes into the half-spaces before Lamouchi's kids even realize they've been bypassed. Hannibal Mejbri has the energy to cause chaos in spurts, but Koeman's positional geometry is specifically designed to turn frenetic pressing teams into exhausted spectators.",
+      "stakes": "A Dutch win locks in the expected group order and confirms the Netherlands as the most dangerous team in Group F heading into the knockout rounds, while a Tunisian upset would scramble the third-place race and send genuine shockwaves through the bracket.",
+      "predictedWinner": "NED"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M59",
+    "stage": "Group D",
+    "group": "D",
+    "date": "2026-06-25",
+    "time": "19:00",
+    "timezone": "UTC-7",
+    "venue": "SoFi Stadium, Inglewood",
+    "teamA_code": "TUR",
+    "teamB_code": "USA",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Pochettino's fullback-fueled overloads will stretch Montella's compact 4-2-3-1 to its absolute limit \u2014 but the moment those American wide engines push too high, Arda G\u00fcler will punish the exposed channels with the kind of devastating, pocket-picking brilliance that no defensive structure can fully prepare for. This is the tactical collision the whole group has been building toward: relentless American energy crashing into Turkish individual genius.",
+      "stakes": "A T\u00fcrkiye upset doesn't just reshuffle Group D \u2014 it sends a tremor through the entire tournament bracket, announcing that Montella's prodigies aren't here to quietly claim second place but to genuinely threaten anyone left standing.",
+      "predictedWinner": "USA"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M60",
+    "stage": "Group D",
+    "group": "D",
+    "date": "2026-06-25",
+    "time": "19:00",
+    "timezone": "UTC-7",
+    "venue": "Levi's Stadium, Santa Clara",
+    "teamA_code": "PAR",
+    "teamB_code": "AUS",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Two defensive fortresses collide in a match where neither side particularly wants the ball \u2014 Alfaro's bone-rattling low block against Popovic's five-man steel curtain is the immovable object meeting the unstoppable force, except neither is actually that unstoppable. The difference is Almir\u00f3n's jet-heeled counter-attacking threat and Enciso's chaos magic, which give Paraguay a creative outlet that Australia's structurally toothless attack simply cannot match.",
+      "stakes": "A Paraguay win locks in their third-place qualification ticket and confirms the group plays out exactly as predicted, but an Australian upset would scramble the best third-place calculations and leave the Socceroos fighting for a tournament lifeline they were never supposed to need.",
+      "predictedWinner": "PAR"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M61",
+    "stage": "Group I",
+    "group": "I",
+    "date": "2026-06-26",
+    "time": "15:00",
+    "timezone": "UTC-4",
+    "venue": "Gillette Stadium, Foxborough",
+    "teamA_code": "NOR",
+    "teamB_code": "FRA",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Norway want to run at you in straight lines \u2014 but France's mid-block is specifically designed to make that terrifying frontline vanish into traffic, forcing \u00d8degaard to solve the puzzle from deeper and deeper. The real question is whether Haaland can stay disciplined in the box long enough for one moment of chaos to detonate, or whether Mbapp\u00e9 simply ends the conversation on the counter before Norway ever get going.",
+      "stakes": "A French win locks in the group order exactly as expected and sends Norway into the knockout rounds as a dangerous but second-seeded side, while a Norway upset reshuffles the entire top of Group I and announces Solbakken's men as a legitimate dark-horse threat to go deep in this tournament.",
+      "predictedWinner": "FRA"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M62",
+    "stage": "Group I",
+    "group": "I",
+    "date": "2026-06-26",
+    "time": "15:00",
+    "timezone": "UTC-4",
+    "venue": "BMO Field, Toronto",
+    "teamA_code": "SEN",
+    "teamB_code": "IRQ",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Iraq's 'Arnie-ball' is built to suffocate exactly the kind of wide overloads Senegal lives on \u2014 but when Bara Ndiaye starts threading vertical balls through the lines and Man\u00e9 drags defenders into the box, that flat 4-4-2 is going to have nightmares trying to step out and recover. This is a street fight that Senegal are simply too technically gifted to lose.",
+      "stakes": "An Iraq upset doesn't just torch Senegal's comfortable third-place safety net \u2014 it throws the entire best third-place race into chaos and could send one of Africa's most electric squads home before the knockout rounds even begin.",
+      "predictedWinner": "SEN"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M63",
+    "stage": "Group G",
+    "group": "G",
+    "date": "2026-06-26",
+    "time": "20:00",
+    "timezone": "UTC-7",
+    "venue": "Lumen Field, Seattle",
+    "teamA_code": "EGY",
+    "teamB_code": "IRN",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Two pragmatic low-block architects collide in Seattle, each essentially daring the other to actually attack \u2014 but Egypt's trap has a loaded spring Iran's doesn't: Mohamed Salah waiting in the gaps, needing just one moment of daylight to detonate a defense that simply cannot recover fast enough against elite wide movement.",
+      "stakes": "An Iran victory doesn't just flip the group's second-place picture \u2014 it potentially pushes Egypt into the wildcard scramble and hands the underdogs a legitimate shot at a historic knockout berth, upending everything we thought we knew about Group G's pecking order.",
+      "predictedWinner": "EGY"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M64",
+    "stage": "Group G",
+    "group": "G",
+    "date": "2026-06-26",
+    "time": "20:00",
+    "timezone": "UTC-7",
+    "venue": "BC Place, Vancouver",
+    "teamA_code": "NZL",
+    "teamB_code": "BEL",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Belgium's whole game plan is to unleash Doku and their flankers into 1v1s at full sprint \u2014 which is basically a surgical strike against the exact wide-zone crossing setup New Zealand lives and dies by. Bazeley's mid-block will hold shape for maybe sixty minutes before De Bruyne finds the seam that drags a center-back three yards out of position, and at that point it's lights out for the All Whites.",
+      "stakes": "A Belgium win rubber-stamps the predicted group order and sends New Zealand home without a point, confirming that Oceania's kings remain a sentimental story rather than a genuine World Cup threat \u2014 but a stunning NZL upset would throw Group G's third-place race wide open and potentially knock Iran out of wildcard contention entirely.",
+      "predictedWinner": "BEL"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M65",
+    "stage": "Group H",
+    "group": "H",
+    "date": "2026-06-26",
+    "time": "19:00",
+    "timezone": "UTC-5",
+    "venue": "NRG Stadium, Houston",
+    "teamA_code": "CPV",
+    "teamB_code": "KSA",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Two deep-block specialists collide in a tactical cage match where neither side truly wants the ball \u2014 Bubista's suffocating 5-4-1 will dare Saudi Arabia to break them down, and Donis's combative mid-block simply doesn't have the individual quality to do it. Salem Al-Dawsari is the only man on the pitch capable of picking a lock this stubborn, but one magician rarely wins a war against eleven disciplined soldiers.",
+      "stakes": "With both teams already staring at the exit, a Cabo Verde upset doesn't just end Saudi Arabia's tournament \u2014 it forces the group's predicted third-place finisher to sweat out the Best Third-Place scramble alongside the Blue Sharks, turning a dead rubber into a genuine lifeline chase.",
+      "predictedWinner": "DRAW"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M66",
+    "stage": "Group H",
+    "group": "H",
+    "date": "2026-06-26",
+    "time": "18:00",
+    "timezone": "UTC-6",
+    "venue": "Estadio Akron, Zapopan",
+    "teamA_code": "URU",
+    "teamB_code": "ESP",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Uruguay's relentless man-marking machine will hunt Spain's midfield builders like prey \u2014 but Rodri exists precisely to suffocate that chaos, and the moment Lamine Yamal isolates a fatigued Uruguayan fullback in a one-on-one, the floodgates open. Bielsa's vertical overloads are terrifying until Spain's passing geometry simply dissects the gaps left behind.",
+      "stakes": "A Uruguay upset scrambles the entire group narrative and potentially hands a rattled Spain a trickier knockout draw, while a Spanish win simply confirms the natural order and sends Bielsa's warriors into the round of 16 as the tournament's most dangerous second-place team.",
+      "predictedWinner": "ESP"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M67",
+    "stage": "Group L",
+    "group": "L",
+    "date": "2026-06-27",
+    "time": "17:00",
+    "timezone": "UTC-4",
+    "venue": "MetLife Stadium, East Rutherford",
+    "teamA_code": "PAN",
+    "teamB_code": "ENG",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Panama's elegant possession labyrinth will test England's patience \u2014 but Tuchel's counter-pressing wolves are specifically bred to devour teams who invite them to hunt, and the moment Carrasquilla loses the ball in a central lane, Morgan Rogers will be sprinting straight through Panama's heart before they can reset. Christiansen's wingback overloads are a genuine weapon, but England's rest-defense structure under Tuchel is a steel trap waiting for exactly that kind of wide exposure.",
+      "stakes": "An England win locks up Group L on their terms and sends a tournament-wide message that Tuchel's machine is the real deal, but a Panama upset would shatter the group picture and potentially hand Croatia the top seed they've been quietly engineering toward all along.",
+      "predictedWinner": "ENG"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M68",
+    "stage": "Group L",
+    "group": "L",
+    "date": "2026-06-27",
+    "time": "17:00",
+    "timezone": "UTC-4",
+    "venue": "Lincoln Financial Field, Philadelphia",
+    "teamA_code": "CRO",
+    "teamB_code": "GHA",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Croatia will spend 90 minutes slowly strangling the life out of Queiroz's low block \u2014 Modri\u0107 picking apart the seams of Ghana's disciplined 5-4-1 with his trademark half-space sorcery until the structure finally cracks. Ghana's only prayer is Kudus getting a single moment of chaos to spring I\u00f1aki Williams in behind, but Dali\u0107's defense has seen that movie a hundred times.",
+      "stakes": "A Croatia win locks in the predicted group order and confirms this golden generation still has the tournament nous to grind out must-win results, while a Ghana upset would detonate the entire Group L picture and suddenly make Panama's third-place hopes a genuine lifeline worth watching.",
+      "predictedWinner": "CRO"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M69",
+    "stage": "Group J",
+    "group": "J",
+    "date": "2026-06-27",
+    "time": "21:00",
+    "timezone": "UTC-5",
+    "venue": "Arrowhead Stadium, Kansas City",
+    "teamA_code": "ALG",
+    "teamB_code": "AUT",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Algeria's wide overloads and A\u00eft-Nouri's marauding runs are practically a written invitation for Rangnick's fullbacks to sprint into the exact vacated space they dream about \u2014 but flip it around, and Algeria's own high press could turn Austria's exposed wide channels into a two-way war of chaos that suits Petkovi\u0107's transition game far more than it should. This is two pressing monsters pointing loaded guns at each other's biggest weakness.",
+      "stakes": "An Algerian upset doesn't just rock Group J \u2014 it potentially shunts Austria into a brutally competitive third-place scramble and hands the Desert Foxes the momentum and standing to chase a genuine knockout-round run.",
+      "predictedWinner": "AUT"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M70",
+    "stage": "Group J",
+    "group": "J",
+    "date": "2026-06-27",
+    "time": "21:00",
+    "timezone": "UTC-5",
+    "venue": "AT&T Stadium, Arlington",
+    "teamA_code": "JOR",
+    "teamB_code": "ARG",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Sellami's iron defensive shell will invite Argentina's pressure \u2014 then pray Scaloni's chameleon shifts don't crack it open before Al-Tamari gets one clean sprint at that exposed three-back. The problem? Messi doesn't need space, he manufactures it, and Jordan's defensive fatigue will eventually hand Argentina the skeleton key.",
+      "stakes": "An Argentina win locks up Group J's top spot and confirms the world champions are the immovable force this tournament is being quietly built around \u2014 while Jordan's World Cup dream ends with honor but no knockout stage.",
+      "predictedWinner": "ARG"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M71",
+    "stage": "Group K",
+    "group": "K",
+    "date": "2026-06-27",
+    "time": "19:30",
+    "timezone": "UTC-4",
+    "venue": "Hard Rock Stadium, Miami Gardens",
+    "teamA_code": "COL",
+    "teamB_code": "POR",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Portugal's possession machine wants to pin Colombia deep and let Le\u00e3o feast on the counter \u2014 but Lorenzo's hyper-vertical setup is practically designed to punish the exact transitional gaps Mart\u00ednez's system leaks when the press breaks down. James Rodr\u00edguez threading a killer ball into D\u00edaz's path behind a high Portuguese line isn't a nightmare scenario \u2014 it's practically the match plan.",
+      "stakes": "A Colombia upset doesn't just flip the group on its head \u2014 it sends Portugal into the knockouts as a wounded, second-place side suddenly facing a far more dangerous bracket path, while confirming Los Cafeteros as a genuine dark-horse threat for the whole tournament.",
+      "predictedWinner": "POR"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M72",
+    "stage": "Group K",
+    "group": "K",
+    "date": "2026-06-27",
+    "time": "19:30",
+    "timezone": "UTC-4",
+    "venue": "Mercedes-Benz Stadium, Atlanta",
+    "teamA_code": "COD",
+    "teamB_code": "UZB",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": {
+      "take": "Two iron curtains collide in Atlanta \u2014 Desabre's mid-block meets Cannavaro's low block, and something has to give. The team that blinks first and chases the game will be exposed; the one that stays disciplined and strikes on the counter wins this ugly, beautiful chess match.",
+      "stakes": "With both sides likely already eliminated from automatic qualification, a COD win could still spark a miraculous third-place run, while an Uzbekistan result would cement their historic debut as a genuine tournament story rather than a footnote.",
+      "predictedWinner": "COD"
+    },
+    "status": "upcoming",
+    "result": null,
+    "winner": null
+  },
+  {
+    "matchId": "M73",
+    "stage": "Round of 32",
+    "group": null,
+    "date": "2026-06-29",
+    "time": "TBD",
+    "timezone": "TBD",
+    "venue": "TBD",
+    "teamA_code": "TBD_W73A",
+    "teamB_code": "TBD_W73B",
+    "marketOdds": {
+      "polymarket_winA": "--",
+      "polymarket_winB": "--",
+      "polymarket_draw": "--",
+      "kalshi_note": "--"
+    },
+    "matchPrediction": "Teams TBD after group stage. Our tactical breakdown drops the moment the bracket locks.",
+    "status": "placeholder",
+    "result": null,
+    "winner": null
+  }
+]
