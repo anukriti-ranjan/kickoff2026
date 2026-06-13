@@ -2,7 +2,7 @@
 
 A minimal, fast fan site for the FIFA World Cup 2026. Built for returning fans who follow major tournaments but not club football day-to-day.
 
-**Live at:** *(your Cloudflare Pages URL here)*
+**Live at:** *[(URL)](https://kickoff2026.anukriti-ranjan.workers.dev)*
 
 ---
 

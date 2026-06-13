@@ -20,9 +20,9 @@
       "stakes": "A South Africa upset at the Azteca wouldn't just be the shock of the tournament \u2014 it would instantly blow Group A wide open and put Mexico in a desperate, pressure-cooker chase for second place against teams they expected to leapfrog.",
       "predictedWinner": "MEX"
     },
-    "status": "upcoming",
-    "result": null,
-    "winner": null
+    "status": "completed",
+    "result": "2-0",
+    "winner": "MEX"
   },
   {
     "matchId": "M2",
@@ -45,9 +45,9 @@
       "stakes": "A Czech upset here scrambles the whole Group A calculus \u2014 suddenly South Africa smells blood, Korea's predicted second-place finish is under threat, and Czechia transforms from cannon fodder into genuine contenders for one of those precious third-place lifelines.",
       "predictedWinner": "KOR"
     },
-    "status": "upcoming",
-    "result": null,
-    "winner": null
+    "status": "completed",
+    "result": "2-1",
+    "winner": "KOR"
   },
   {
     "matchId": "M3",
@@ -70,9 +70,9 @@
       "stakes": "A Canadian win here locks in the Group B pecking order early and confirms that home-soil adrenaline is a genuine force multiplier \u2014 but a Bosnian upset blows the whole group wide open and puts Switzerland in the rare position of needing results, not just performing them.",
       "predictedWinner": "CAN"
     },
-    "status": "upcoming",
-    "result": null,
-    "winner": null
+    "status": "completed",
+    "result": "1-1",
+    "winner": "DRAW"
   },
   {
     "matchId": "M4",
@@ -95,9 +95,9 @@
       "stakes": "A USA win here plants their flag at the top of Group D and validates the Pochettino project on the biggest stage imaginable, but a Paraguay upset reshuffles the entire group pecking order and turns Matchday 2 into a white-knuckle survival scramble for the hosts.",
       "predictedWinner": "USA"
     },
-    "status": "upcoming",
-    "result": null,
-    "winner": null
+    "status": "completed",
+    "result": "4-1",
+    "winner": "USA"
   },
   {
     "matchId": "M5",
