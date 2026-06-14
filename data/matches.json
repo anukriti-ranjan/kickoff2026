@@ -120,9 +120,9 @@
       "stakes": "A Scottish win here is the quiet, unglamorous foundation of their entire tournament survival plan \u2014 drop points to Haiti and the path to a third-place qualification slot becomes a razor-thin tightrope walk against Brazil and Morocco.",
       "predictedWinner": "SCO"
     },
-    "status": "upcoming",
-    "result": null,
-    "winner": null
+    "status": "completed",
+    "result": "0-1",
+    "winner": "SCO"
   },
   {
     "matchId": "M6",
@@ -145,9 +145,9 @@
       "stakes": "A T\u00fcrkiye win locks up second place in Group D and renders the final matchday a formality, but an Australian upset would throw the entire group into chaos and put Montella's golden generation on upset alert heading into a must-win finale.",
       "predictedWinner": "TUR"
     },
-    "status": "upcoming",
-    "result": null,
-    "winner": null
+    "status": "completed",
+    "result": "2-0",
+    "winner": "AUS"
   },
   {
     "matchId": "M7",
@@ -170,9 +170,9 @@
       "stakes": "A Morocco upset here doesn't just scramble Group C \u2014 it signals that Brazil's much-hyped Ancelotti era has a glass jaw, and every team left on their path will smell blood.",
       "predictedWinner": "BRA"
     },
-    "status": "upcoming",
-    "result": null,
-    "winner": null
+    "status": "completed",
+    "result": "1-1",
+    "winner": "DRAW"
   },
   {
     "matchId": "M8",
@@ -195,9 +195,9 @@
       "stakes": "A Swiss win here all but locks Group B's top seed and sends Qatar spiraling toward a must-win finale against Bosnia, making the bottom half of the group a sudden survival scramble.",
       "predictedWinner": "SUI"
     },
-    "status": "upcoming",
-    "result": null,
-    "winner": null
+    "status": "completed",
+    "result": "1-1",
+    "winner": "DRAW"
   },
   {
     "matchId": "M9",
