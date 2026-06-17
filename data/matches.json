@@ -220,9 +220,9 @@
       "stakes": "An Ecuadorian win here locks in the group's predicted pecking order and leaves Ivory Coast scrambling to survive on third-place points, while a CIV upset would blow Group E wide open and put Ecuador in genuine danger of a knockout-round collision with a heavyweight.",
       "predictedWinner": "ECU"
     },
-    "status": "upcoming",
-    "result": null,
-    "winner": null
+    "status": "completed",
+    "result": "1-0",
+    "winner": "CIV"
   },
   {
     "matchId": "M10",
@@ -245,9 +245,9 @@
       "stakes": "A convincing German victory immediately stamps their authority as Group E's dominant force, confirming the predicted standings and leaving Cura\u00e7ao's tournament fairytale dependent on miracle results against Ecuador and Ivory Coast.",
       "predictedWinner": "GER"
     },
-    "status": "upcoming",
-    "result": null,
-    "winner": null
+    "status": "completed",
+    "result": "7-1",
+    "winner": "GER"
   },
   {
     "matchId": "M11",
@@ -270,9 +270,9 @@
       "stakes": "A Dutch win locks in the group hierarchy on Day 1 and puts Japan in the uncomfortable position of needing results elsewhere, while a Japanese upset would instantly blow Group F wide open and signal to the entire tournament that this squad is the real deal.",
       "predictedWinner": "NED"
     },
-    "status": "upcoming",
-    "result": null,
-    "winner": null
+    "status": "completed",
+    "result": "2-2",
+    "winner": "DRAW"
   },
   {
     "matchId": "M12",
@@ -295,9 +295,9 @@
       "stakes": "A Sweden win locks in the Group F pecking order exactly as predicted and quietly confirms their path as a dangerous third-place qualifier, while a Tunisian upset would detonate the entire group and suddenly make every team in F recalculate their survival math.",
       "predictedWinner": "SWE"
     },
-    "status": "upcoming",
-    "result": null,
-    "winner": null
+    "status": "completed",
+    "result": "5-1",
+    "winner": "SWE"
   },
   {
     "matchId": "M13",
@@ -320,9 +320,9 @@
       "stakes": "A Uruguay win here locks in the group's expected hierarchy on Day 1, making Saudi Arabia's path to a miraculous third-place advancement almost entirely dependent on results they can't control \u2014 while an upset would detonate the whole Group H script and suddenly make Cabo Verde dangerous.",
       "predictedWinner": "URU"
     },
-    "status": "upcoming",
-    "result": null,
-    "winner": null
+    "status": "completed",
+    "result": "1-1",
+    "winner": "DRAW"
   },
   {
     "matchId": "M14",
@@ -345,9 +345,9 @@
       "stakes": "A commanding Spanish victory locks in the group hierarchy on Day 1 and quietly signals to Uruguay, Saudi Arabia, and every other contender that the reigning European champions arrived in Atlanta ready to go all the way.",
       "predictedWinner": "ESP"
     },
-    "status": "upcoming",
-    "result": null,
-    "winner": null
+    "status": "completed",
+    "result": "0-0",
+    "winner": "DRAW"
   },
   {
     "matchId": "M15",
@@ -370,9 +370,9 @@
       "stakes": "A New Zealand upset here doesn't just shake Group G \u2014 it rips Iran's wildcard lifeline wide open and forces them into a desperate chase against Belgium and Egypt, potentially gifting the All Whites a historic third-place slot in the most competitive bracket of their footballing lives.",
       "predictedWinner": "IRN"
     },
-    "status": "upcoming",
-    "result": null,
-    "winner": null
+    "status": "completed",
+    "result": "2-2",
+    "winner": "DRAW"
   },
   {
     "matchId": "M16",
@@ -395,9 +395,9 @@
       "stakes": "A Belgian win confirms the group hierarchy immediately and leaves Egypt in a desperate must-not-lose race with Iran for second, while an Egyptian upset would detonate the entire pool and put Belgium under genuine pressure they are not built to handle.",
       "predictedWinner": "BEL"
     },
-    "status": "upcoming",
-    "result": null,
-    "winner": null
+    "status": "completed",
+    "result": "1-1",
+    "winner": "DRAW"
   },
   {
     "matchId": "M17",
@@ -420,9 +420,9 @@
       "stakes": "A French win locks in the group's expected hierarchy on Day 1, but a Senegal upset doesn't just shake Group I \u2014 it supercharges the third-place race and forces every other group to recalibrate what a 'safe' qualification margin actually looks like.",
       "predictedWinner": "FRA"
     },
-    "status": "upcoming",
-    "result": null,
-    "winner": null
+    "status": "completed",
+    "result": "3-1",
+    "winner": "FRA"
   },
   {
     "matchId": "M18",
@@ -445,9 +445,9 @@
       "stakes": "A Norway win here is the opening nail in Iraq's coffin and quietly confirms the Group I pecking order before it even gets interesting \u2014 but an Iraqi upset via set-piece carnage would crack the group wide open and send Senegal's third-place hopes into overdrive.",
       "predictedWinner": "NOR"
     },
-    "status": "upcoming",
-    "result": null,
-    "winner": null
+    "status": "completed",
+    "result": "1-4",
+    "winner": "NOR"
   },
   {
     "matchId": "M19",
@@ -470,9 +470,9 @@
       "stakes": "An Argentine win here doesn't just confirm the pecking order in Group J \u2014 it sends a warning shot to every contender that the world champions' tactical evolution is real, while condemning Algeria to a nervy fight for a third-place lifeline from matchday two onward.",
       "predictedWinner": "ARG"
     },
-    "status": "upcoming",
-    "result": null,
-    "winner": null
+    "status": "completed",
+    "result": "3-0",
+    "winner": "ARG"
   },
   {
     "matchId": "M20",
@@ -495,9 +495,9 @@
       "stakes": "An Austrian win locks in the group's predicted pecking order and puts real pressure on Algeria and Jordan to fight desperately for that critical third-place lifeline, while a Jordanian upset would be the most seismic opening-day result in the entire tournament and blow Group J wide open.",
       "predictedWinner": "AUT"
     },
-    "status": "upcoming",
-    "result": null,
-    "winner": null
+    "status": "completed",
+    "result": "3-1",
+    "winner": "AUT"
   },
   {
     "matchId": "M21",
